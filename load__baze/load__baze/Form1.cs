@@ -555,14 +555,6 @@ namespace load__baze
                     сделатьКопиюПрайсаВToolStripMenuItem.Visible = false;
                     this.Text = "Прайс Дахмиры        НЕТ ИСТОЧНИКА ПРАЙСА!";
 
-                    //ыва
-
-                    //    ыав
-                    //    ы
-                    //    аы
-                    //    а
-                    //    ыа
-                    //    ыаыа
                 }
             }
             catch
