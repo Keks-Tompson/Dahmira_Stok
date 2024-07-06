@@ -12,12 +12,14 @@ using System.Net;
 using Org.BouncyCastle.Asn1.Ocsp;
 using iTextSharp.text.pdf.qrcode;
 using System.Xml.Linq;
+using load__baze.Models;
+
 
 namespace load__baze
 {
     public partial class Параметры : Form
     {
-        string url_praise = "ftp://31.177.95.187";
+        private string exhibitionsFilePath = Path.Combine("countries.json");
 
         public Параметры()
         {
@@ -203,53 +205,83 @@ namespace load__baze
                 stream.Close();
             }
 
-            try { NameCoeff_1.Text = data[1]; } catch { }
-            try { NameCoeff_2.Text = data[2]; } catch { }
-            try { NameCoeff_3.Text = data[3]; } catch { }
-            try { NameCoeff_4.Text = data[4]; } catch { }
-            try { NameCoeff_5.Text = data[5]; } catch { }
-            try { NameCoeff_6.Text = data[6]; } catch { }
-            try { NameCoeff_7.Text = data[7]; } catch { }
-            try { NameCoeff_8.Text = data[8]; } catch { }
-            try { NameCoeff_9.Text = data[9]; } catch { }
-            try { NameCoeff_10.Text = data[10]; } catch { }
-            try { NameCoeff_11.Text = data[11]; } catch { }
-            try { NameCoeff_12.Text = data[12]; } catch { }
-            try { NameCoeff_13.Text = data[13]; } catch { }
-            try { NameCoeff_14.Text = data[14]; } catch { }
-            try { NameCoeff_15.Text = data[15]; } catch { }
+            try { NameCoeff_1.Text = data[1]; Manager.Instance.countries.Add(new Country { name = data[1], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_2.Text = data[2]; Manager.Instance.countries.Add(new Country { name = data[2], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_3.Text = data[3]; Manager.Instance.countries.Add(new Country { name = data[3], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_4.Text = data[4]; Manager.Instance.countries.Add(new Country { name = data[4], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_5.Text = data[5]; Manager.Instance.countries.Add(new Country { name = data[5], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_6.Text = data[6]; Manager.Instance.countries.Add(new Country { name = data[6], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } }); } catch { }
+            try { NameCoeff_7.Text = data[7]; Manager.Instance.countries.Add(new Country { name = data[7], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_8.Text = data[8]; Manager.Instance.countries.Add(new Country { name = data[8], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_9.Text = data[9]; Manager.Instance.countries.Add(new Country { name = data[9], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_10.Text = data[10]; Manager.Instance.countries.Add(new Country { name = data[10], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_11.Text = data[11]; Manager.Instance.countries.Add(new Country { name = data[11], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_12.Text = data[12]; Manager.Instance.countries.Add(new Country { name = data[12], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_13.Text = data[13]; Manager.Instance.countries.Add(new Country { name = data[13], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_14.Text = data[14]; Manager.Instance.countries.Add(new Country { name = data[14], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
+            try { NameCoeff_15.Text = data[15]; Manager.Instance.countries.Add(new Country { name = data[15], coefficient = 0, discount = 0, countryManufacturers = new List<Manufacturer> { } });} catch { }
 
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[16], out newDecimal); PriceCoef_1.Value = newDecimal; if (isDecimal == false) { PriceCoef_1.BackColor = Color.Red; } } catch { PriceCoef_1.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[17], out newDecimal); PriceCoef_2.Value = newDecimal; if (isDecimal == false) { PriceCoef_2.BackColor = Color.Red; } } catch { PriceCoef_2.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[18], out newDecimal); PriceCoef_3.Value = newDecimal; if (isDecimal == false) { PriceCoef_3.BackColor = Color.Red; } } catch { PriceCoef_3.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[19], out newDecimal); PriceCoef_4.Value = newDecimal; if (isDecimal == false) { PriceCoef_4.BackColor = Color.Red; } } catch { PriceCoef_4.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[20], out newDecimal); PriceCoef_5.Value = newDecimal; if (isDecimal == false) { PriceCoef_5.BackColor = Color.Red; } } catch { PriceCoef_5.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[21], out newDecimal); PriceCoef_6.Value = newDecimal; if (isDecimal == false) { PriceCoef_6.BackColor = Color.Red; } } catch { PriceCoef_6.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[22], out newDecimal); PriceCoef_7.Value = newDecimal; if (isDecimal == false) { PriceCoef_7.BackColor = Color.Red; } } catch { PriceCoef_7.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[23], out newDecimal); PriceCoef_8.Value = newDecimal; if (isDecimal == false) { PriceCoef_8.BackColor = Color.Red; } } catch { PriceCoef_8.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[24], out newDecimal); PriceCoef_9.Value = newDecimal; if (isDecimal == false) { PriceCoef_9.BackColor = Color.Red; } } catch { PriceCoef_9.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[25], out newDecimal); PriceCoef_10.Value = newDecimal; if (isDecimal == false) { PriceCoef_10.BackColor = Color.Red; } } catch { PriceCoef_10.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[26], out newDecimal); PriceCoef_11.Value = newDecimal; if (isDecimal == false) { PriceCoef_11.BackColor = Color.Red; } } catch { PriceCoef_11.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[27], out newDecimal); PriceCoef_12.Value = newDecimal; if (isDecimal == false) { PriceCoef_12.BackColor = Color.Red; } } catch { PriceCoef_12.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[28], out newDecimal); PriceCoef_13.Value = newDecimal; if (isDecimal == false) { PriceCoef_13.BackColor = Color.Red; } } catch { PriceCoef_13.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[29], out newDecimal); PriceCoef_14.Value = newDecimal; if (isDecimal == false) { PriceCoef_14.BackColor = Color.Red; } } catch { PriceCoef_14.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[30], out newDecimal); PriceCoef_15.Value = newDecimal; if (isDecimal == false) { PriceCoef_15.BackColor = Color.Red; } } catch { PriceCoef_15.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[16], out newDecimal); PriceCoef_1.Value = newDecimal;
+                Manager.Instance.countries[0].coefficient = Convert.ToDecimal(data[16]); if (isDecimal == false) { PriceCoef_1.BackColor = Color.Red; } } catch { PriceCoef_1.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[17], out newDecimal); PriceCoef_2.Value = newDecimal;
+                Manager.Instance.countries[1].coefficient = Convert.ToDecimal(data[17]); if (isDecimal == false) { PriceCoef_2.BackColor = Color.Red; } } catch { PriceCoef_2.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[18], out newDecimal); PriceCoef_3.Value = newDecimal;
+                Manager.Instance.countries[2].coefficient = Convert.ToDecimal(data[18]); if (isDecimal == false) { PriceCoef_3.BackColor = Color.Red; } } catch { PriceCoef_3.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[19], out newDecimal); PriceCoef_4.Value = newDecimal; 
+                Manager.Instance.countries[3].coefficient = Convert.ToDecimal(data[19]);if (isDecimal == false) { PriceCoef_4.BackColor = Color.Red; } } catch { PriceCoef_4.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[20], out newDecimal); PriceCoef_5.Value = newDecimal; 
+                Manager.Instance.countries[4].coefficient = Convert.ToDecimal(data[20]);if (isDecimal == false) { PriceCoef_5.BackColor = Color.Red; } } catch { PriceCoef_5.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[21], out newDecimal); PriceCoef_6.Value = newDecimal; 
+                Manager.Instance.countries[5].coefficient = Convert.ToDecimal(data[21]);if (isDecimal == false) { PriceCoef_6.BackColor = Color.Red; } } catch { PriceCoef_6.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[22], out newDecimal); PriceCoef_7.Value = newDecimal; 
+                Manager.Instance.countries[6].coefficient = Convert.ToDecimal(data[22]);if (isDecimal == false) { PriceCoef_7.BackColor = Color.Red; } } catch { PriceCoef_7.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[23], out newDecimal); PriceCoef_8.Value = newDecimal; 
+                Manager.Instance.countries[7].coefficient = Convert.ToDecimal(data[23]);if (isDecimal == false) { PriceCoef_8.BackColor = Color.Red; } } catch { PriceCoef_8.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[24], out newDecimal); PriceCoef_9.Value = newDecimal; 
+                Manager.Instance.countries[8].coefficient = Convert.ToDecimal(data[24]);if (isDecimal == false) { PriceCoef_9.BackColor = Color.Red; } } catch { PriceCoef_9.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[25], out newDecimal); PriceCoef_10.Value = newDecimal; 
+                Manager.Instance.countries[9].coefficient = Convert.ToDecimal(data[25]);if (isDecimal == false) { PriceCoef_10.BackColor = Color.Red; } } catch { PriceCoef_10.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[26], out newDecimal); PriceCoef_11.Value = newDecimal; 
+                Manager.Instance.countries[10].coefficient = Convert.ToDecimal(data[26]);if (isDecimal == false) { PriceCoef_11.BackColor = Color.Red; } } catch { PriceCoef_11.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[27], out newDecimal); PriceCoef_12.Value = newDecimal; 
+                Manager.Instance.countries[11].coefficient = Convert.ToDecimal(data[27]);if (isDecimal == false) { PriceCoef_12.BackColor = Color.Red; } } catch { PriceCoef_12.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[28], out newDecimal); PriceCoef_13.Value = newDecimal; 
+                Manager.Instance.countries[12].coefficient = Convert.ToDecimal(data[28]);if (isDecimal == false) { PriceCoef_13.BackColor = Color.Red; } } catch { PriceCoef_13.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[29], out newDecimal); PriceCoef_14.Value = newDecimal; 
+                Manager.Instance.countries[13].coefficient = Convert.ToDecimal(data[29]);if (isDecimal == false) { PriceCoef_14.BackColor = Color.Red; } } catch { PriceCoef_14.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[30], out newDecimal); PriceCoef_15.Value = newDecimal; 
+                Manager.Instance.countries[14].coefficient = Convert.ToDecimal(data[30]);if (isDecimal == false) { PriceCoef_15.BackColor = Color.Red; } } catch { PriceCoef_15.BackColor = Color.Red; }
 
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[31], out newDecimal); DiscountСoeff_1.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_1.BackColor = Color.Red; } } catch { DiscountСoeff_1.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[32], out newDecimal); DiscountСoeff_2.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_2.BackColor = Color.Red; } } catch { DiscountСoeff_2.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[33], out newDecimal); DiscountСoeff_3.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_3.BackColor = Color.Red; } } catch { DiscountСoeff_3.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[34], out newDecimal); DiscountСoeff_4.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_4.BackColor = Color.Red; } } catch { DiscountСoeff_4.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[35], out newDecimal); DiscountСoeff_5.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_5.BackColor = Color.Red; } } catch { DiscountСoeff_5.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[36], out newDecimal); DiscountСoeff_6.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_6.BackColor = Color.Red; } } catch { DiscountСoeff_6.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[37], out newDecimal); DiscountСoeff_7.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_7.BackColor = Color.Red; } } catch { DiscountСoeff_7.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[38], out newDecimal); DiscountСoeff_8.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_8.BackColor = Color.Red; } } catch { DiscountСoeff_8.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[39], out newDecimal); DiscountСoeff_9.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_9.BackColor = Color.Red; } } catch { DiscountСoeff_9.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[40], out newDecimal); DiscountСoeff_10.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_10.BackColor = Color.Red; } } catch { DiscountСoeff_10.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[41], out newDecimal); DiscountСoeff_11.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_11.BackColor = Color.Red; } } catch { DiscountСoeff_11.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[42], out newDecimal); DiscountСoeff_12.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_12.BackColor = Color.Red; } } catch { DiscountСoeff_12.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[43], out newDecimal); DiscountСoeff_13.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_13.BackColor = Color.Red; } } catch { DiscountСoeff_13.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[44], out newDecimal); DiscountСoeff_14.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_14.BackColor = Color.Red; } } catch { DiscountСoeff_14.BackColor = Color.Red; }
-            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[45], out newDecimal); DiscountСoeff_15.Value = newDecimal; if (isDecimal == false) { DiscountСoeff_15.BackColor = Color.Red; } } catch { DiscountСoeff_15.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[31], out newDecimal); DiscountСoeff_1.Value = newDecimal;
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[31]); if (isDecimal == false) { DiscountСoeff_1.BackColor = Color.Red; } } catch { DiscountСoeff_1.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[32], out newDecimal); DiscountСoeff_2.Value = newDecimal;
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[32]); if (isDecimal == false) { DiscountСoeff_2.BackColor = Color.Red; } } catch { DiscountСoeff_2.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[33], out newDecimal); DiscountСoeff_3.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[33]);if (isDecimal == false) { DiscountСoeff_3.BackColor = Color.Red; } } catch { DiscountСoeff_3.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[34], out newDecimal); DiscountСoeff_4.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[34]);if (isDecimal == false) { DiscountСoeff_4.BackColor = Color.Red; } } catch { DiscountСoeff_4.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[35], out newDecimal); DiscountСoeff_5.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[35]);if (isDecimal == false) { DiscountСoeff_5.BackColor = Color.Red; } } catch { DiscountСoeff_5.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[36], out newDecimal); DiscountСoeff_6.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[36]);if (isDecimal == false) { DiscountСoeff_6.BackColor = Color.Red; } } catch { DiscountСoeff_6.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[37], out newDecimal); DiscountСoeff_7.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[37]);if (isDecimal == false) { DiscountСoeff_7.BackColor = Color.Red; } } catch { DiscountСoeff_7.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[38], out newDecimal); DiscountСoeff_8.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[38]);if (isDecimal == false) { DiscountСoeff_8.BackColor = Color.Red; } } catch { DiscountСoeff_8.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[39], out newDecimal); DiscountСoeff_9.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[39]);if (isDecimal == false) { DiscountСoeff_9.BackColor = Color.Red; } } catch { DiscountСoeff_9.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[40], out newDecimal); DiscountСoeff_10.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[40]);if (isDecimal == false) { DiscountСoeff_10.BackColor = Color.Red; } } catch { DiscountСoeff_10.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[41], out newDecimal); DiscountСoeff_11.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[41]);if (isDecimal == false) { DiscountСoeff_11.BackColor = Color.Red; } } catch { DiscountСoeff_11.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[42], out newDecimal); DiscountСoeff_12.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[42]);if (isDecimal == false) { DiscountСoeff_12.BackColor = Color.Red; } } catch { DiscountСoeff_12.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[43], out newDecimal); DiscountСoeff_13.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[43]);if (isDecimal == false) { DiscountСoeff_13.BackColor = Color.Red; } } catch { DiscountСoeff_13.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[44], out newDecimal); DiscountСoeff_14.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[44]);if (isDecimal == false) { DiscountСoeff_14.BackColor = Color.Red; } } catch { DiscountСoeff_14.BackColor = Color.Red; }
+            try { decimal newDecimal; bool isDecimal = Decimal.TryParse(data[45], out newDecimal); DiscountСoeff_15.Value = newDecimal; 
+                Manager.Instance.countries[0].discount = Convert.ToDecimal(data[45]);if (isDecimal == false) { DiscountСoeff_15.BackColor = Color.Red; } } catch { DiscountСoeff_15.BackColor = Color.Red; }
 
 
             #endregion загрузка цен манагеров
@@ -269,6 +301,29 @@ namespace load__baze
             label26.Text = setting[22];
             label24.Text = setting[23];
 
+
+            //удаление пустых строк
+            for (int i = Manager.Instance.countries.Count - 1; i > 0; i--)
+            {
+                if (Manager.Instance.countries[i].name.ToString() == "")
+                {
+                    Manager.Instance.countries.RemoveAt(i);
+                }
+            }
+
+            for (int i = 0; i < Manager.Instance.countries.Count; i++)
+            {
+                dataGridView1.Rows.Add();
+                dataGridView1.Rows[i].Cells[0].Value = Manager.Instance.countries[i].name;
+                dataGridView1.Rows[i].Cells[1].Value = Manager.Instance.countries[i].coefficient;
+                dataGridView1.Rows[i].Cells[2].Value = Manager.Instance.countries[i].discount;
+            }
+
+            for (int i = 0; i < Manager.Instance.allManufacturers.Count; i++)
+            {
+                dataGridView3.Rows.Add();
+                dataGridView3.Rows[i].Cells[0].Value = Manager.Instance.allManufacturers[i].name;
+            }
 
         }
 
@@ -1062,7 +1117,7 @@ namespace load__baze
         {
 
             // Создаем объект FtpWebRequest - он указывает на файл, который будет создан
-            FtpWebRequest request = (FtpWebRequest)WebRequest.Create(url_praise + "/coefficient_prices/coefficient_prices_test.txt");
+            FtpWebRequest request = (FtpWebRequest)WebRequest.Create(Form1.url_praise + "/coefficient_prices/coefficient_prices_test.txt");
             // устанавливаем метод на загрузку файлов
             request.Method = WebRequestMethods.Ftp.UploadFile;
             request.Credentials = new NetworkCredential("dahmira1_admin", "zI2Hghfnslob");
@@ -1137,57 +1192,104 @@ namespace load__baze
 
 
             
-            //ываыва
-
-            //    ываы
-            //    ва
-            //    ыа
-            //    ыва
-            //    ы
-            //    аы
-            //    а
-            //    ыа
-            //    ыв
-            //    аыва
+          
 
             Program.f1.proverka_praisev_c_ftp();
 
-            //FtpWebRequest requestу = (FtpWebRequest)WebRequest.Create(url_praise + "/coefficient_prices/coefficient_prices_test2.txt");
-            //requestу.Method = WebRequestMethods.Ftp.UploadFile;
-            //requestу.Credentials = new NetworkCredential("dahmira1_admin", "zI2Hghfnslob");
+            
+        }
 
-            ////try
-            ////{
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            dataGridView2.Rows.Clear();
+            dataGridView3.Rows.Clear();
 
+            if (e.RowIndex >= 0) // Проверяем, что строка была нажата (не заголовок)
+            {
+                for (int i = 0; i < Manager.Instance.allManufacturers.Count; i++)
+                {
+                    Manufacturer manufacturer = Manager.Instance.allManufacturers[i];
+                    dataGridView3.Rows.Add(manufacturer.name);
+                }
 
-            //    // создаем поток для загрузки файла
-            //    //FileStream fs = new FileStream("D://test.txt", FileMode.Open);
-            //    //byte[] fileContents = new byte[fs.Length];
-            //    //fs.Read(fileContents, 0, fileContents.Length);
-            //    //fs.Close();
-            //    //request.ContentLength = fileContents.Length;
+                int clickedRowIndex = e.RowIndex;
+                if (Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count > 0)
+                {
+                    for (int i = 0; i < Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count; i++)
+                    {
+                        Manufacturer manufacturer = Manager.Instance.countries[clickedRowIndex].countryManufacturers[i];
+                        dataGridView2.Rows.Add(manufacturer.name);
+                    }
+                }
 
-            //    string fileContents = "34sdf";
-            //    byte[] bytes = Encoding.ASCII.GetBytes(fileContents);
+                List<DataGridViewRow> rowsToRemove = new List<DataGridViewRow>();
+                foreach (DataGridViewRow row1 in dataGridView3.Rows)
+                {
+                    foreach (DataGridViewRow row2 in dataGridView2.Rows)
+                    {
+                        if (row1.Cells[0].Value != null && row2.Cells[0].Value != null)
+                        {
+                            if (row1.Cells[0].Value.ToString() == row2.Cells[0].Value.ToString())
+                            {
+                                rowsToRemove.Add(row1);
+                                break;
+                            }
+                        }
+                    }
+                }
 
-            //    requestу.ContentLength = bytes.Length;
+                foreach (DataGridViewRow rowToRemove in rowsToRemove)
+                {
+                    dataGridView3.Rows.Remove(rowToRemove);
+                }
+            }
+        }
 
-            //    // пишем считанный в массив байтов файл в выходной поток
-            //    Stream requestStream = requestу.GetRequestStream();
-            //    requestStream.Write(bytes, 0, bytes.Length);
-            //    requestStream.Close();
+        private void dataGridView2_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+            {
+                string cellValue = dataGridView2.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.RemoveAt(e.RowIndex);
+                dataGridView3.Rows.Add(cellValue);
+                dataGridView2.Rows.RemoveAt(e.RowIndex);
+            }
+        }
 
-            //    // получаем ответ от сервера в виде объекта FtpWebResponse
-            //    FtpWebResponse response = (FtpWebResponse)requestу.GetResponse();
+        private void dataGridView3_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+            {
+                string cellValue = dataGridView3.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.Add(new Manufacturer { name = cellValue });
+                dataGridView2.Rows.Add(cellValue);
+                dataGridView3.Rows.RemoveAt(e.RowIndex);
+            }
+        }
 
-            //    Console.WriteLine("Загрузка файлов завершена. Статус: {0}", response.StatusDescription);
+        private void button9_Click_1(object sender, EventArgs e)
+        {
+            //string ftpUrl = "ftp://your-ftp-server.com";
+            //string ftpUsername = "your-ftp-username";
+            //string ftpPassword = "your-ftp-password";
+            //string localFilePath = "path/to/local/file.json";
+            //string ftpFilePath = "path/to/ftp/file.json";
 
-            //    label18.Text = fileContents;
-            ////}
-            ////catch
-            ////{
-            //    //label18.Text = "Ошибка";
-            ////}
+            //FtpWebRequest request = (FtpWebRequest)WebRequest.Create(ftpUrl + ftpFilePath);
+            //request.Credentials = new NetworkCredential(ftpUsername, ftpPassword);
+            //request.Method = WebRequestMethods.Ftp.UploadFile;
+
+            //using (FileStream fileStream = new FileStream(localFilePath, FileMode.Open))
+            //{
+            //    request.ContentLength = fileStream.Length;
+            //    using (Stream requestStream = request.GetRequestStream())
+            //    {
+            //        fileStream.CopyTo(requestStream);
+            //    }
+            //}
+
+            //var jsonexhibitionsString = JsonSerializer.Serialize(Manager.Instance.countries);
+            //File.WriteAllText(exhibitionsFilePath, jsonexhibitionsString);
         }
     }
 }

@@ -22,6 +22,7 @@ using System.Text.RegularExpressions;
 using System.Net;
 using System.Media;
 using System.Net.Sockets;
+using load__baze.Models;
 
 
 
@@ -51,7 +52,7 @@ namespace load__baze
     public partial class Form1 : Form
     {
         //адрес сайта
-        string url_praise = "ftp://31.177.95.187";
+        public static string url_praise = "ftp://31.177.95.187";
         public Form1()
         {
             Program.f1 = this;
@@ -803,6 +804,26 @@ namespace load__baze
             chat_Load();
             //закрываем лого
             close_logo = true;
+
+            //сохранение всех поставщиков
+            for (int i = 0; i < this.tableBindingSource.Count; i++)
+            {
+                if (Manager.Instance.allManufacturers.Count > 0)
+                {
+                    if (tableDataGridView[1, i].Value.ToString() == Manager.Instance.allManufacturers[Manager.Instance.allManufacturers.Count - 1].name)
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        Manager.Instance.allManufacturers.Add(new Manufacturer { name = tableDataGridView[1, i].Value.ToString() });
+                    }
+                }
+                else
+                {
+                    Manager.Instance.allManufacturers.Add(new Manufacturer { name = tableDataGridView[1, i].Value.ToString() });
+                }
+            }
         }
 
 

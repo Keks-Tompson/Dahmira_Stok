@@ -207,3 +207,82 @@ D:\Dahmira Git\load__baze\load__baze\obj\Debug\load__baze.csproj.CoreCompileInpu
 D:\Dahmira Git\load__baze\load__baze\obj\Debug\load__baze.csproj.CopyComplete
 D:\Dahmira Git\load__baze\load__baze\obj\Debug\load__baze.exe
 D:\Dahmira Git\load__baze\load__baze\obj\Debug\load__baze.pdb
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Buffers.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Memory.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Numerics.Vectors.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Text.Encodings.Web.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Text.Json.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.ValueTuple.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Buffers.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Memory.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Numerics.Vectors.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Text.Encodings.Web.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Text.Json.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\System.ValueTuple.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\AutoServiceBase.mdb.mdf
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\AutoServiceBase.mdb_log.ldf
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\ico.ico
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\load__baze.exe.config
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\load__baze.exe
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\load__baze.pdb
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\DotNetZip.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\itextsharp.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\protobuf-net.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Buffers.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Memory.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Numerics.Vectors.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Text.Encodings.Web.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Text.Json.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.ValueTuple.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Vlc.DotNet.Core.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Vlc.DotNet.Core.Interops.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Vlc.DotNet.Forms.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\DotNetZip.pdb
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\DotNetZip.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\itextsharp.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\protobuf-net.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Buffers.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Memory.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Numerics.Vectors.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Text.Encodings.Web.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Text.Json.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\System.ValueTuple.xml
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\Interop.WMPLib.dll
+D:\Dahmira Git\load__baze — копия\load__baze\bin\Debug\AxInterop.WMPLib.dll
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.AssemblyReference.cache
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\Interop.WMPLib.dll
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\AxInterop.WMPLib.dll
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.ResolveComReference.cache
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Form1.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Form_справка_о_базе.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.info.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Kolor_Exel.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Kolor_PDF.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.logotip.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.o_programme_otziv.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.pass.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Properties.Resources.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.автор.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.окно_настроек_взять_цену.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.отчет_с_поиска_по_повторам.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.Параметры.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.создать_шаблон.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.телик.resources
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.GenerateResource.cache
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.CoreCompileInputs.cache
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.CopyComplete
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.exe
+D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.pdb
