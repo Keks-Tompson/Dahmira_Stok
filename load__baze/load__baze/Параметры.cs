@@ -1137,6 +1137,19 @@ namespace load__baze
 
 
             
+            //ываыва
+
+            //    ываы
+            //    ва
+            //    ыа
+            //    ыва
+            //    ы
+            //    аы
+            //    а
+            //    ыа
+            //    ыв
+            //    аыва
+
             Program.f1.proverka_praisev_c_ftp();
 
             //FtpWebRequest requestу = (FtpWebRequest)WebRequest.Create(url_praise + "/coefficient_prices/coefficient_prices_test2.txt");
