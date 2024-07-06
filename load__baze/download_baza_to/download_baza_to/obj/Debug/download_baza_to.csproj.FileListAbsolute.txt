@@ -1,0 +1,10 @@
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\prg_download\download_baza_to.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\prg_download\download_baza_to.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\prg_download\download_baza_to.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\download_baza_to\download_baza_to\obj\Debug\download_baza_to.Form2.resources

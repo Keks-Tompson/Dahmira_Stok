@@ -1,0 +1,12 @@
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\bin\Debug\copiride.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\bin\Debug\copiride.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\bin\Debug\copiride.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\copiride\copiride\obj\Debug\copiride.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\copirait\copiride.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\copirait\copiride.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\rez\new_praise\copirait\copiride.pdb

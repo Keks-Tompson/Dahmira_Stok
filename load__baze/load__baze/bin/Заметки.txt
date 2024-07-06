@@ -1,0 +1,7 @@
+Dahmira_soft_setup v.1.1.6.2_2022_08_29.exe
+
+
+Хост: ftp.dahmira1.nichost.ru 
+Имя пользователя: dahmira1_admin 
+Пароль: zI2Hghfnslob
+порт 21

@@ -1,0 +1,166 @@
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\load__baze.exe.config
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\load__baze.exe
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\load__baze.pdb
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.csprojResolveAssemblyReference.cache
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Form1.resources
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.exe
+c:\users\demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.pdb
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\ico.ico
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\DotNetZip.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\DotNetZip.pdb
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\DotNetZip.xml
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.csproj.ResolveComReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.logotip.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\itextsharp.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\itextsharp.xml
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.info.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\Interop.WMPLib.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\protobuf-net.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\protobuf-net.xml
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Form_справка_о_базе.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\Interop.WMPLib.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.автор.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\load__baze\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.создать_шаблон.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.телик.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.o_programme_otziv.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.pass.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Kolor_Exel.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.отчет_с_поиска_по_повторам.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.окно_настроек_взять_цену.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\AutoServiceBase.mdb.mdf
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\bin\Debug\AutoServiceBase.mdb_log.ldf
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\AutoServiceBase.mdb.mdf
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\AutoServiceBase.mdb_log.ldf
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\ico.ico
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\load__baze.exe.config
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\load__baze.exe
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\load__baze.pdb
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\DotNetZip.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\itextsharp.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\protobuf-net.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\DotNetZip.pdb
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\DotNetZip.xml
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\itextsharp.xml
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\protobuf-net.xml
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\Interop.WMPLib.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\Interop.WMPLib.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.csproj.ResolveComReference.cache
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.Form1.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.Form_справка_о_базе.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.info.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.kofithient_manageram.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.Kolor_Exel.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.logotip.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.master_pass.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.o_programme_otziv.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.pass.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.Properties.Resources.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.автор.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.окно_настроек_взять_цену.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.отчет_с_поиска_по_повторам.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.создать_шаблон.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.телик.resources
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.csproj.GenerateResource.Cache
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.exe
+C:\Users\Demon\Desktop\load__baze11\load__baze\obj\Debug\load__baze.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\AutoServiceBase.mdb.mdf
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\AutoServiceBase.mdb_log.ldf
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\ico.ico
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\load__baze.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\load__baze.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\load__baze.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\DotNetZip.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\itextsharp.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\protobuf-net.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\DotNetZip.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\DotNetZip.xml
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\itextsharp.xml
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\protobuf-net.xml
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\Interop.WMPLib.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\Interop.WMPLib.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.csproj.ResolveComReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.Form_справка_о_базе.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.info.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.kofithient_manageram.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.Kolor_Exel.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.logotip.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.master_pass.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.o_programme_otziv.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.pass.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.автор.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.окно_настроек_взять_цену.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.отчет_с_поиска_по_повторам.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.создать_шаблон.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.телик.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze_sos\load__baze\obj\Debug\load__baze.pdb
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Kolor_PDF.resources
+C:\Users\Demon\documents\visual studio 2017\Projects\load__baze\load__baze\obj\Debug\load__baze.Параметры.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\AutoServiceBase.mdb.mdf
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\AutoServiceBase.mdb_log.ldf
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\ico.ico
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\load__baze.exe.config
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\load__baze.exe
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\load__baze.pdb
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\BouncyCastle.Crypto.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\DotNetZip.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\itextsharp.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\protobuf-net.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\Vlc.DotNet.Core.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\DotNetZip.pdb
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\DotNetZip.xml
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\itextsharp.xml
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\protobuf-net.xml
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\Interop.WMPLib.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\bin\Debug\AxInterop.WMPLib.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.csproj.AssemblyReference.cache
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\Interop.WMPLib.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\AxInterop.WMPLib.dll
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.csproj.ResolveComReference.cache
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Form1.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Form_справка_о_базе.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.info.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Kolor_Exel.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Kolor_PDF.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.logotip.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.o_programme_otziv.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.pass.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Properties.Resources.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.автор.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.окно_настроек_взять_цену.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.отчет_с_поиска_по_повторам.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.Параметры.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.создать_шаблон.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.телик.resources
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.csproj.GenerateResource.cache
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.csproj.CoreCompileInputs.cache
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.csproj.Up2Date
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.exe
+C:\Исходники Dahmira\Проект Прайс_Дахмиры___\load__baze\load__baze\obj\Debug\load__baze.pdb

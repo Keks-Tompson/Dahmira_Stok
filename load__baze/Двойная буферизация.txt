@@ -1,0 +1,13 @@
+без 
+
+this.dataGridView_зависимость = new System.Windows.Forms.DataGridView();
+this.tableDataGridView = new System.Windows.Forms.DataGridView();
+this.dataGridView_расчёт_2 = new System.Windows.Forms.DataGridView();
+this.dataGridView_муляж = new System.Windows.Forms.DataGridView();
+
+С: 
+
+this.tableDataGridView = new DoubleBufferedDataGridView();
+this.dataGridView_зависимость = new DoubleBufferedDataGridView();
+this.dataGridView_расчёт_2 = new DoubleBufferedDataGridView();
+this.dataGridView_муляж = new DoubleBufferedDataGridView();

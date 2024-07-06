@@ -1,0 +1,36 @@
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe.config
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.pdb
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csprojResolveAssemblyReference.cache
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Form1.resources
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.exe
+c:\users\demon\documents\visual studio 2017\Projects\Setupe_dahmira_soft\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\проект установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\bin\Debug\Setupe_dahmira_soft.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Установщик с нуля\Setupe_dahmira_soft_этап1_скачать с сайта\Setupe_dahmira_soft\obj\Debug\Setupe_dahmira_soft.pdb

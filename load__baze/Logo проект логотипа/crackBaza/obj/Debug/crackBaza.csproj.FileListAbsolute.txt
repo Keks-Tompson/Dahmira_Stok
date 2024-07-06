@@ -1,0 +1,45 @@
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\bin\Debug\crackBaza.exe.config
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\bin\Debug\crackBaza.exe
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\bin\Debug\crackBaza.pdb
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.csprojResolveAssemblyReference.cache
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.Form1.resources
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.exe
+c:\users\demon\documents\visual studio 2017\Projects\crackBaza\crackBaza\obj\Debug\crackBaza.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\bin\Debug\crackBaza.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\bin\Debug\crackBaza.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\bin\Debug\crackBaza.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\crackBaza\crackBaza\obj\Debug\crackBaza.pdb
+C:\Users\Demon\Desktop\crackBaza\crackBaza\bin\Debug\crackBaza.exe.config
+C:\Users\Demon\Desktop\crackBaza\crackBaza\bin\Debug\crackBaza.exe
+C:\Users\Demon\Desktop\crackBaza\crackBaza\bin\Debug\crackBaza.pdb
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.Form1.resources
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.Properties.Resources.resources
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.csproj.GenerateResource.Cache
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.exe
+C:\Users\Demon\Desktop\crackBaza\crackBaza\obj\Debug\crackBaza.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\crackBaza.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\crackBaza.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\bin\Debug\logo.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\bin\Debug\logo.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\bin\Debug\logo.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\logo.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\logo.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\logo.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\LogoTest\crackBaza\obj\Debug\logo.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\bin\Debug\logo.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\bin\Debug\logo.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\bin\Debug\logo.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\crackBaza.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\logo.Form1.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\logo.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\crackBaza.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\logo.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\Logo проект логотипа\crackBaza\obj\Debug\logo.pdb

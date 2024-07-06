@@ -1,0 +1,36 @@
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Demon\Desktop\Новая папка\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form2.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Demon\Documents\Visual Studio 2017\Projects\load__baze\заготовки\player\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb

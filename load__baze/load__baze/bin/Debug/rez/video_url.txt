@@ -1,0 +1,421 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,UA Перший 22.08.22=10-20 iptv.org.ua
+http://saveukraine.only4.tv/0196/video.m3u8?token=saveUkrain
+#EXTINF:-1,Интер HD
+http://saveukraine.only4.tv/1153/video.m3u8?token=saveUkrain
+#EXTINF:-1,1+1 HD
+http://saveukraine.only4.tv/5582/video.m3u8?token=saveUkrain
+#EXTINF:-1,1+1
+http://saveukraine.only4.tv/0151/video.m3u8?token=saveUkrain
+#EXTINF:-1,1+1 Международный
+http://saveukraine.only4.tv/0195/video.m3u8?token=saveUkrain
+#EXTINF:-1 ,2+2
+http://cdnua06.hls.tv/476/hls/7j0xwtqvo24c5usgldpf6138i9rbnyez/3305/stream.m3u8
+#EXTINF:-1,ICTV HD
+http://saveukraine.only4.tv/5605/video.m3u8?token=saveUkrain
+#EXTINF:-1,ICTV
+http://saveukraine.only4.tv/0159/video.m3u8?token=saveUkrain
+#EXTINF:-1,ICTV Ukraine
+http://saveukraine.only4.tv/6650/video.m3u8?token=saveUkrain
+#EXTINF:-1,Новый канал HD
+http://saveukraine.only4.tv/5603/video.m3u8?token=saveUkrain
+#EXTINF:-1,Новый канал
+http://saveukraine.only4.tv/0194/video.m3u8?token=saveUkrain
+#EXTINF:-1,СТБ HD
+http://saveukraine.only4.tv/5604/video.m3u8?token=saveUkrain
+#EXTINF:-1,СТБ
+http://saveukraine.only4.tv/0160/video.m3u8?token=saveUkrain
+#EXTINF:-1,Квартал TV
+https://cdnua03.hls.tv/178/hls/gtpzcdjs8w4e7lfq2v9n0kum5rb3yx1h/3603/stream.m3u8
+#EXTINF:-1,5 канал
+http://saveukraine.only4.tv/0165/video.m3u8?token=saveUkrain
+#EXTINF:-1,Униан ТВ HD
+http://saveukraine.only4.tv/7698/video.m3u8?token=saveUkrain
+#EXTINF:-1,Униан ТВ
+http://saveukraine.only4.tv/6160/video.m3u8?token=saveUkrain
+#EXTINF:-1,Сонце
+http://saveukraine.only4.tv/0183/video.m3u8?token=saveUkrain
+#EXTINF:-1,Рада
+http://saveukraine.only4.tv/0186/video.m3u8?token=saveUkrain
+#EXTINF:-1,Прямой HD
+http://saveukraine.only4.tv/0199/video.m3u8?token=saveUkrain
+#EXTINF:-1,News 24
+http://saveukraine.only4.tv/5573/video.m3u8?token=saveUkrain
+#EXTINF:-1,ПравдаТУТ
+http://saveukraine.only4.tv/0178/video.m3u8?token=saveUkrain
+#EXTINF:-1,Еспресо TV
+http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
+#EXTINF:-1,UA TV
+http://saveukraine.only4.tv/6550/video.m3u8?token=saveUkrain
+#EXTINF:-1,Запорожье
+http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
+#EXTINF:-1,Первый Городской (Кривой Рог)
+http://saveukraine.only4.tv/6748/video.m3u8?token=saveUkrain
+#EXTINF:-1,Первый Городской (Одесса)
+http://saveukraine.only4.tv/6749/video.m3u8?token=saveUkrain
+#EXTINF:-1,ПлюсПлюс HD
+http://saveukraine.only4.tv/6232/video.m3u8?token=saveUkrain
+#EXTINF:-1,ПлюсПлюс
+http://saveukraine.only4.tv/6140/video.m3u8?token=saveUkrain
+#EXTINF:-1,Пиксель HD
+http://saveukraine.only4.tv/1166/video.m3u8?token=saveUkrain
+#EXTINF:-1,Пиксель
+http://saveukraine.only4.tv/0166/video.m3u8?token=saveUkrain
+#EXTINF:-1,Nickelodeon HD
+http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
+#EXTINF:-1,Cartoon network
+http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
+#EXTINF:-1,Nick Jr
+http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
+#EXTINF:-1,Niki Junior HD
+http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
+#EXTINF:-1,Niki Kids HD
+http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
+#EXTINF:-1 ,Інтер
+https://cdnua03.hls.tv/178/hls/qr4aw2kh86bovjey1uf3ncpdzs09gm7x/110/stream.m3u8
+#EXTINF:-1 ,ТЕТ
+http://cdnua06.hls.tv/476/hls/8hug3xrmnfjpsy69el2t4bvc7z5iwo1q/150/stream.m3u8
+#EXTINF:-1 ,UA Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
+#EXTINF:-1 ,UA TV tva.org.ua
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 ,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 ,I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1 ,OBOZ TV
+http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,К1
+http://cdnua06.hls.tv/476/hls/at4u7cmzdxo56hgleyvnk81wijfprqb3/113/stream.m3u8
+#EXTINF:-1 ,К2
+http://cdnua06.hls.tv/476/hls/rjopkza5wv0m1qgdu38nleftcb4s729i/114/stream.m3u8
+#EXTINF:-1 ,НТН 
+https://cdnua03.hls.tv/178/hls/uv7jql38sicdrn14gmaxktbw50zf9py2/129/stream.m3u8
+#EXTINF:-1 ,НЛО TV
+http://cdnua06.hls.tv/476/hls/rmi57qnzsgcweohdk9yj8tvpx6b324fa/126/stream.m3u8
+#EXTINF:-1 ,ОЦЕ
+http://cdnua06.hls.tv/476/hls/mr09ntzupcyiko4flax7qs5bew32d18v/3593/stream.m3u8
+#EXTINF:-1 ,Indigo TV
+http://cdnua06.hls.tv/476/hls/84uvilpxmyna65dz3et21wfgkojsc9hb/109/stream.m3u8
+#EXTINF:-1 ,Еко ТВ
+http://cdnua06.hls.tv/476/hls/t1826djoghiwcbaknf9lmyuzx430eqrs/165/stream.m3u8
+#EXTINF:-1 ,Бігуді
+http://cdnua06.hls.tv/476/hls/c9zd3b81uafxsny2wimvopjg7ltke654/96/stream.m3u8
+#EXTINF:-1 ,V-Comedy
+https://cdnua03.hls.tv/178/hls/z2yud4kicp85sjeh61xmw0n9fogvrblq/309/stream.m3u8
+#EXTINF:-1 ,V-Megahit
+https://cdnua03.hls.tv/178/hls/3f8uve5ltk2pyw0rin9xo67js4g1hdma/3981/stream.m3u8
+#EXTINF:-1 ,V-Premiere
+https://cdnua03.hls.tv/178/hls/pahckw53v4ry76tmxbz0doe9gf1n8uq2/3980/stream.m3u8
+#EXTINF:-1 ,V-Serial
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
+#EXTINF:-1 ,TV Action
+https://cdnua03.hls.tv/178/hls/6k5qwg1e34vch8xrt2zuspbmonldyai0/308/stream.m3u8
+#EXTINF:-1 ,TV 1000 HD
+http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
+#EXTINF:-1 ,ТВ World Kino
+https://cdnua03.hls.tv/178/hls/kfsnjgbmwuoxtdq7218lz5yv3ap6h9i4/4816/stream.m3u8
+#EXTINF:-1 ,Bolt
+http://cdnua06.hls.tv/476/hls/pahum2nfj01xkglcz54r8vo396t7edqw/3690/stream.m3u8
+#EXTINF:-1 ,Bolt HD
+http://cdnua06.hls.tv/476/hls/ghjmswx25f9b7ozc1tuq30pliyv8drne/3963/stream.m3u8
+#EXTINF:-1 ,AMC
+http://cdnua06.hls.tv/476/hls/cfrmx4eus5don93zbhqlwt170a8yi2kv/4248/stream.m3u8
+#EXTINF:-1 ,Dorama HD
+http://cdnua06.hls.tv/476/hls/nwk6jmtuidbrq5sah4yc2x30vleg7pzo/4247/stream.m3u8
+#EXTINF:-1 ,Enter-Фільм
+http://cdnua06.hls.tv/476/hls/rk217bdpvjs8log4uen36t0aw5hcxfqm/56/stream.m3u8
+#EXTINF:-1 ,Film UA Drama HD
+http://cdnua06.hls.tv/476/hls/cahn3efj7k1odub652xt9pi4ls0myqr8/71/stream.m3u8
+#EXTINF:-1 ,Paramount Channel HD
+http://cdnua06.hls.tv/476/hls/j1w9epfq87ck36nxt0b4yuamz2sidl5v/4772/stream.m3u8
+#EXTINF:-1 ,Paramount Comedy
+http://cdnua06.hls.tv/476/hls/0qo4vwzsfn6y1dgkbeatlhx8pi32j79c/3910/stream.m3u8
+#EXTINF:-1 ,Epic Drama
+http://cdnua06.hls.tv/476/hls/s1t487pi6em0gl95jyhuwofrvcxd2nza/3912/stream.m3u8
+#EXTINF:-1 ,Film Box
+http://cdnua06.hls.tv/476/hls/xj01uep2in6v839kfsog47ztmybhd5qa/400/stream.m3u8
+#EXTINF:-1 ,FilmBox ArtHouse
+http://cdnua06.hls.tv/476/hls/zmjq1hnyg3ltevwiofk5p472a9rc08xu/231/stream.m3u8
+#EXTINF:-1 ,Hollywood HD
+http://cdnua06.hls.tv/476/hls/2asqejncklupw3m0or86vzyxg197b4it/262/stream.m3u8
+#EXTINF:-1 ,Star Cinema
+http://cdnua06.hls.tv/476/hls/fdeio3502sr1n8t4amxpbj7hq96lwgyz/3703/stream.m3u8
+#EXTINF:-1 ,Star Cinema HD
+http://cdnua06.hls.tv/476/hls/4relkdym6x395cw2fij17hpun0ogaqtb/3925/stream.m3u8
+#EXTINF:-1,Star Family
+http://cdnua06.hls.tv/476/hls/fgrpcks9d2ximw04te87jy53ol1qzbah/3687/stream.m3u8
+#EXTINF:-1 ,Star Family HD
+http://cdnua06.hls.tv/476/hls/85tmvydfe03nl94iposxcj1gwu2qkh7b/3996/stream.m3u8
+#EXTINF:-1 ,Zee TV
+http://cdnua06.hls.tv/476/hls/z1xvfodu2b6qneact95mgr8yjwlpis30/577/stream.m3u8
+#EXTINF:-1 ,ZOOM
+http://cdnua06.hls.tv/476/hls/iwshr56jfazpmlxoc4eknvd0u8gbq9yt/94/stream.m3u8
+#EXTINF:-1,Дніпро TV HD
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 ,ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,ObozTV HD
+http://cdnua06.hls.tv/476/hls/l4ped5v63gn8usqwk21jcybz9i0rxhfm/3984/stream.m3u8
+#EXTINF:-1 ,Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Правда ТУТ HD (Киев)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Правда ТУТ Львов HD
+http://95.67.12.158:8034?key=iptv.org.ua
+#EXTINF:-1 ,UА- Культура
+http://cdnua06.hls.tv/476/hls/3iqugp0w4cmy9o81vbn2jsfrd6e7l5zt/117/stream.m3u8
+#EXTINF:-1 ,Nobel TV (Днепр)
+http://159.224.232.27:1234?key=iptv.org.ua
+#EXTINF:-1,УКРАИІНА 24
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 ,366 TV HD
+http://cdnua06.hls.tv/476/hls/3zi9d20mb8fuxynja461s75cotvqpkwg/4721/stream.m3u8
+#EXTINF:-1 ,Надия/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 ,Первый городской Кривий Ріг
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 ,Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1 ,Ethno Channel HD
+http://cdnua06.hls.tv/476/hls/ziudreglbf8y9c521wjto36smhnqak4p/456/stream.m3u8
+#EXTINF:-1 ,ТІМ Прилуки
+http://194.242.100.24:6666
+#EXTINF:-1 ,Сміла
+http://195.95.171.15/hls/stream.m3u8?key=iptv.org.ua
+#EXTINF:-1 ,Тернополь 1
+http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,Тернопiль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,ТВА tva.org.ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
+#EXTINF:-1 ,7 канал Одесса HD
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+#EXTINF:-1 ,7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 ,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 ,Плюс (Одесса)
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1 ,Одесса int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1 ,Медиа Информ (Одесса)
+http://91.194.79.124:8081/MediaInform/SD/chunks.m3u8
+#EXTINF:-1 ,Медиа Информ HD
+http://91.194.79.124:8081/MediaInformHD/HD/chunks.m3u8
+#EXTINF:-1 ,ИТ3 (Черноморск)
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr-lq/playlist.m3u8
+#EXTINF:-1 ,ИТ3 HD
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+#EXTINF:-1 ,Most Video
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 ,Телеканал 366 TV
+http://cdnua06.hls.tv/476/hls/0ef2s54ljorpd9kga18cvqzimtb6wxy7/4241/stream.m3u8
+#EXTINF:-1 ,Телеканал 366 TV HD
+http://cdnua06.hls.tv/476/hls/w3pm05r1xfo7ze9yud6n2gjlactishk4/4721/stream.m3u8
+#EXTINF:-1 ,Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 ,Bambarbia TV tva.in.ua
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Бамбарбія
+https://ch.iptvmate.net/5e9369a142cab83dde100f4d.m3u8
+#EXTINF:-1 ,1 Автомобільний
+http://195.189.60.253/100/index.m3u8
+#EXTINF:-1 ,Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1 ,Travel Guide TV HD
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 ,Мега
+http://cdnua06.hls.tv/476/hls/dztg0ik24c36frpjb5q8usevo7l1m9xa/123/stream.m3u8
+#EXTINF:-1 ,Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1 ,ТРОФЕЙ
+https://trofey.net/live/smil:trofey.smil/chunklist_w1430468525_b878000_slukr.m3u8
+#EXTINF:-1,Дача HD
+http://cdnua06.hls.tv/476/hls/2k815tzrsouxvebw97yg6dnfmpqih3c0/454/stream.m3u8
+#EXTINF:-1,Епоха
+http://cdnua06.hls.tv/476/hls/rf6jts8cybzvhnwkx4qd9lgui7eo2a15/4216/stream.m3u8
+#EXTINF:-1 ,Рибалка ТВ
+http://cdnua06.hls.tv/476/hls/26czd5a3yufl7wh1oqitjr8kgbv9x40n/4768/stream.m3u8
+#EXTINF:-1 ,Cars&Stars HD
+http://cdnua06.hls.tv/476/hls/ry146mgv8eofkul02wnzhsp59ctidxqj/4795/stream.m3u8
+#EXTINF:-1 ,Animal Planet 
+http://cdnua06.hls.tv/476/hls/ng3qtzjs6mvy8rolf0ce9h41kix2p5ab/174/stream.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
+#EXTINF:-1 ,Discovery Science
+http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
+#EXTINF:-1 ,ID Investigation Discovery HD
+http://cdnua06.hls.tv/476/hls/k8z9njp47a3bl0dmx2frqw5ve1uyiost/254/stream.m3u8
+#EXTINF:-1 ,History HD 
+http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
+#EXTINF:-1 ,V-History HD
+http://cdnua06.hls.tv/476/hls/p85r20j1xoais4bcf3mgyzdnhv9l6qwu/327/stream.m3u8
+#EXTINF:-1 ,V-Nature
+https://cdnua03.hls.tv/178/hls/f4lukem5x9dzbnsvh02j73wqoci6gtpa/328/stream.m3u8
+#EXTINF:-1 ,National Geographic
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=national_geographic
+#EXTINF:-1 ,National Geographic HD
+http://persik.tv/stream/1234/3//10243.m3u8
+#EXTINF:-1 ,Nat Geo Wild 
+http://193.233.9.49/streams/media/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 ,Travel Channel HD
+http://cdnua06.hls.tv/476/hls/yeqh2ls7g0x8za614j9owcm5rut3pvkb/307/stream.m3u8
+#EXTINF:-1 ,HD Life
+http://streamer.crimea-tv.net/HD_Life/video.m3u8?token=9d3cc59e
+#EXTINF:-1,RTG HD
+http://streamer.crimea-tv.net/RTGHD/video.m3u8?token=9d3cc59e
+#EXTINF:-1 ,СК1 СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 ,СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 ,Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 ,Круг 
+https://cdn1.live-tv.od.ua:8083/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 ,Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 ,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 ,Алекс
+rtmp://46.46.112.223/live/livestream2
+#EXTINF:-1 ,Алекс r
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 ,НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 ,Кус Кус
+https://cdnua03.hls.tv/178/hls/1rz9dma8q3vbsolgxc0i6kf5u4jpte2w/4424/stream.m3u8
+#EXTINF:-1 ,ITV (Рівне)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 ,ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 ,НТА HD (Львів)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 ,НТА Львов
+http://95.67.106.10/hls/nta_ua_low/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,Перший Західний 
+http://cdnua06.hls.tv/476/hls/ojlw3rxakenf572hvi146zpmtg9yqcd8/3948/stream.m3u8
+#EXTINF:-1 ,Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 ,Сварожичи ТВ UA HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Сварожичи ТВ
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Сварожичи р
+http://tv.tv-project.com:1935/live/live2/playlist.m3u8
+#EXTINF:-1 ,М1
+http://cdnua06.hls.tv/476/hls/3r6iedpomgun1z895l4cf0x72ahvbwtj/119/stream.m3u8
+#EXTINF:-1 ,М1 HD
+http://cdnua06.hls.tv/476/hls/9axopt354y6jhzqur2le7bg1fskim0nd/4598/stream.m3u8
+#EXTINF:-1 ,М2
+http://cdnua06.hls.tv/476/hls/io2nc5q8f0wthuekvprjm179d6bxasyg/120/stream.m3u8
+#EXTINF:-1 ,М2 HD
+http://cdnua06.hls.tv/476/hls/4wjq3pebxsv0irhzy8kan5961m2codtg/4601/stream.m3u8
+#EXTINF:-1 , МТМ
+http://stream.ztv.zp.ua/hls/live.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,InRating TV
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 ,Ethno Channel HD
+http://cdnua06.hls.tv/476/hls/6jwzidfvucqa2omys7lgbx83trp509e4/456/stream.m3u8
+#EXTINF:-1 ,EU Music HD
+http://cdnua06.hls.tv/476/hls/mbj9v2uzedsciq0r5ath1p47n3lwy68x/570/stream.m3u8
+#EXTINF:-1 ,НАШЕ HD
+http://cdnua06.hls.tv/476/hls/6gra3p1odt0sfcvjwhu8457ixlqzynm9/3699/stream.m3u8
+#EXTINF:-1 ,НАШЕ Music HD
+http://cdnua06.hls.tv/476/hls/ivrd65lgtzfosay7bc13hkx2mup4nwe8/550/stream.m3u8
+#EXTINF:-1,InRating HD
+http://cdnua06.hls.tv/476/hls/n2djizgy37mu51lvcrpqawhbkfe9x80o/4751/stream.m3u8
+#EXTINF:-1 ,MTV Club
+http://cdnua06.hls.tv/476/hls/6zo4rxf7jc1mbvklq58dnhaei90pgw2t/264/stream.m3u8
+#EXTINF:-1 ,MTV Live HD
+http://cdnua06.hls.tv/476/hls/g1jaywrx7unipezsd4qloc860v2ft5bh/267/stream.m3u8
+#EXTINF:-1 ,Music 4Ever HD
+http://cdnua06.hls.tv/476/hls/goplasz3krfhin0dywm9u8162etvb4x5/3987/stream.m3u8
+#EXTINF:-1 ,Euronews 
+http://cdnua06.hls.tv/476/hls/3xi9a6gdfbln8s0jhcrkvyo2wpt74e1q/215/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Фан Спорт.
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ,Фан Спорт 2.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="СПОРТ", Футбол 3 HD
+https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Trace Sport Stars HD
+http://cdnua06.hls.tv/476/hls/nyvetufj9oi5pwm801sckdh7rl4z6gq2/303/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",XSPORT
+http://cdnua06.hls.tv/476/hls/xgpw9ks6uhb870vy423fdijo5zc1qltn/576/stream.m3u8
+#EXTINF:-1 ,Setanta Sports Ukraine HD
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports + HD UA
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports 1
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports 2
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 group-title="СПОРТ",Eurosport 1 HD
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Eurosport 2 HD
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Спорт-1
+http://89.187.191.207:89/sport1/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Спорт 1
+https://bal.varcdn.top/sport1/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Спорт-2
+http://89.187.191.207:89/sport2/index.m3u8
+#EXTINF:-1 ,ПЛЮС ПЛЮС
+http://cdnua06.hls.tv/476/hls/wr89e7mczih5y1bdjqv3laon0fuxs2gp/136/stream.m3u8
+#EXTINF:-1 ,Піксель
+http://cdnua06.hls.tv/476/hls/6atbs7gmyl9cv8d5knxw34e12jurp0if/135/stream.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://cdnua06.hls.tv/476/hls/ty0fmrljgwh8zvd14e3puq7cbxkiosa2/278/stream.m3u8
+#EXTINF:-1,Disney
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8
+#EXTINF:-1 ,Nickelodeon HD
+http://cdnua06.hls.tv/476/hls/ty0fmrljgwh8zvd14e3puq7cbxkiosa2/278/stream.m3u8
+#EXTINF:-1 ,Nick jr
+http://cdnua06.hls.tv/476/hls/um3pxegfts5nca80l2b7yo6kz1rvi49q/277/stream.m3u8
+#EXTINF:-1 ,Nicktoons
+http://cdnua06.hls.tv/476/hls/ugxia0n2h69ljfwoc4dts5y137pqvbm8/4773/stream.m3u8
+#EXTINF:-1 ,NIKI Junior HD
+http://cdnua06.hls.tv/476/hls/4vfu9b0tn67o85yrezakj3sqc2pxg1id/3621/stream.m3u8
+#EXTINF:-1 ,NIKI Kids HD
+http://cdnua06.hls.tv/476/hls/wa3y76oe48cmblqjh1u9dgrsfxk0t2ip/3624/stream.m3u8
+#EXTINF:-1 ,Піксель
+http://cdnua06.hls.tv/476/hls/6atbs7gmyl9cv8d5knxw34e12jurp0if/135/stream.m3u8
+#EXTINF:-1 ,Плюс Плюс
+http://cdnua06.hls.tv/476/hls/wr89e7mczih5y1bdjqv3laon0fuxs2gp/136/stream.m3u8
+#EXTINF:-1 ,Duck TV HD
+http://cdnua06.hls.tv/476/hls/c5aiw7ro6zgm3yql4d98ethvpu210bfx/214/stream.m3u8
+#EXTINF:-1 ,Da Vinci Learning UA
+https://cdnua03.hls.tv/178/hls/ozw47csv6purbqam9x1y32lej0ngdhit/201/stream.m3u8
+#EXTINF:-1 ,LaLe HD
+http://cdnua06.hls.tv/476/hls/kbvaxcqimuj12l58ewzdrtf9ogh4763n/74/stream.m3u8
+#EXTINF:-1 ,Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="РАДИО",Радио Люкс FM (Львов)
+https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАДИО",Львивська Хвиля
+http://onair.lviv.fm:8000/lviv.fm
+#EXTINF:-1 group-title="РАДИО",Твое Радио (Дрогобыч)
+http://91.200.114.254:8128/;
+#EXTINF:-1 group-title="РАДИО",Обозреватель - BossaNova
+http://music.myradio.ua:8000/bossanova192.mp3?key=iptv.org.ua
+#EXTINF:-1 group-title="РАДИО",Обозреватель - Украинская свадьба
+http://music.myradio.ua:8000/ukrainian_wedding192.mp3?key=iptv.org.ua
+#EXTINF:-1 group-title="РАДИО",Обозреватель - Украинский хит
+http://music.myradio.ua:8000/UkrPophit192.mp3?key=iptv.org.ua
+#EXTINF:-1 group-title="РАДИО",Радио Блиц FM (Белая Церковь)
+http://stream.blits-fm.ua/stream320
+#EXTINF:-1 group-title="РАДИО",Радио Вголос (Львов)
+https://cast108372.customer.uar.net/vgolos320

@@ -1,0 +1,263 @@
+Полезное Радио (Фео ФМ) 96.6 (Феодосия) 96 кБит/с:
+http://195.161.114.53:8000/feocast
+
+Полезное Радио 104.4 (Керчь) 128 кБит/с:
+http://195.161.114.53:8000/kerchcast
+
+Радио Дача Феодосия 103.4 128 кБит/с:
+http://radio.nmg-media.ru:8021/feo
+
+Европа Плюс 256 кБит/с:
+http://ep256.streamr.ru
+
+Ретро ФМ 256 кБит/с:
+http://retroserver.streamr.ru:8043/retro256.mp3
+
+Радио 7 на семи холмах 256 кБит/с:
+http://radio7server.streamr.ru:8040/radio7256.mp3
+
+D FM 128 кБит/с:
+http://dfm.hostingradio.ru/dfm128.mp3
+
+Русское Радио 128 кБит/с:
+http://rusradio.hostingradio.ru/rusradio128.mp3
+
+Радио MAXIMUM 128 кБит/с:
+http://maximum.hostingradio.ru/maximum128.mp3
+
+Дорожное Радио 256 кБит/с:
+http://dorognoe.hostingradio.ru:8000/radio
+
+Казак ФМ 128 кБит/с:
+http://193.242.149.55:8000/kfm
+
+Radio Record 320 кБит/с:
+http://air.radiorecord.ru:805/rr_320
+
+Шансон 256 кБит/с:
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+Релакс ФМ 256 кБит/с:
+http://ic7.101.ru:8000/v13_1
+
+Радио Дача спутник:
+http://217.19.212.8:22055
+
+Радио Джаз 256 кБит/с:
+http://nashe1.hostingradio.ru/jazz-256
+
+НАШЕ Радио 256 кБит/с:
+http://nashe1.hostingradio.ru/nashe-256
+
+Радио Вера 128 кБит/с:
+http://radiovera128.streamr.ru
+
+Радио Звезда 128 кБит/с:
+http://89.208.99.16:8088/zvezda_128
+
+Comedy Radio +0 256 кБит/с:
+http://ic7.101.ru:8000/s60
+
+Маруся ФМ 192 кБит/с:
+http://radio-holding.ru:9000/marusya_default
+
+Радио Русь 128 кБит/с:
+http://radio-holding.ru:9000/rus
+
+Вести ФМ 192 кБит/с:
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+
+Радио Маяк 192 кБит/с:
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+
+Радио России 192 кБит/с:
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
+Радио Искатель 256 кБит/с:
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+
+Хит ФМ 128 кБит/с:
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+Русское Радио Симферополь 106.1 256 кБит/с:
+http://6f4d05ee74c5.sn.mynetname.net:8001/air115
+
+Русское Радио Евпатория 101.0 256 кБит/с
+http://6f4d05ee74c5.sn.mynetname.net:8001/evpatoriya
+
+Русское Радио Ялта 105.8 256 кБит/с
+http://6f4d05ee74c5.sn.mynetname.net:8001/yalta
+
+MAXIMUM Симферополь 91.9 256 кБит/с:
+http://6f4d05ee74c5.sn.mynetname.net:8001/max_115_test
+Радио Спутник в Крыму 102.3 (256 кБит/с):
+http://icecast-ruvr.cdnvideo.ru/rian.voicesym
+
+Ялта ФМ 100.8 (128 кБит/с):
+http://91.195.86.238:8000/live
+
+АВТОРАДИО Симферополь 90.6 (128 кБит/с):
+http://ic4.101.ru:8000/region_avto_238
+
+АВТОРАДИО Севастополь 102.8 (128 кБит/с):
+http://ic4.101.ru:8000/region_avto_237
+
+Юмор FM Симферополь 101.7 (128 кБит/с):
+http://den.101.ru:4000/hu_82_01
+
+Юмор FM Севастополь 106.4 (128 кБит/с):
+http://den.101.ru:4000/hu_92_01
+
+Радио Крым 100.1 (256 кБит/с):
+http://fm.1tvcrimea.ru:8000/stream.mp3
+
+Радио Море 100.6 (256 кБит/с):
+http://sea.1tvcrimea.ru:9003/stream_sea.mp3
+
+Радио Крым Точка 98.7 (256 кБит/с):
+http://radiowired.1tvcrimea.ru:9001/stream_prov
+
+Севастополь ФМ 102.0 : http://air.volna.top/SFM
+Курортное Радио Крыма (Евпатория) 128 кБит/с:
+http://31.131.72.26:555/radio
+
+Ватан Седасы 99.5 (256 кБит/с):
+http://91.214.128.125:64000/vatan
+
+Радио Ваня Симферополь 88.6 (128 кБит/с):
+http://radio.nmg-media.ru:8021/siv
+
+
+Sputnik (Московское радио, Голос России) (1929) © МИА «Россия сегодня»
+Сайт: ria.ru/radio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://audio2.video.ria.ru:80/voicerushi
+128 - http://audio2.video.ria.ru:80/voicerus
+
+Маяк (1964) © ВГТРК
+Сайт: radiomayak.ru
+URL-адреса скоростей потоков, кбит/с:
+192 - http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+128 - http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+64 - http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+
+Радио России (1990) © ВГТРК
+Сайт: radiorus.ru
+URL-адреса скоростей потоков, кбит/с:
+192 - http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+128 - http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+64 - http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+
+Радио Культура (2004) © ВГТРК
+Сайт: cultradio.ru
+URL-адреса скоростей потоков, кбит/с:
+192 - http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+128 - http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
+64 - http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
+
+Вести FM (2008) © ВГТРК
+Сайт: radiovesti.ru
+URL-адреса скоростей потоков, кбит/с:
+192 - http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+128 - http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+64 - http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+
+Latvijas Radio 4 - Домская площадь (1925) © Latvijas Radio
+Сайт: lr4.lsm.lv
+URL-адреса скоростей потоков, кбит/с:
+128 - http://lr4mp0.latvijasradio.lv:8018
+96 - mms://lr4w.latvijasradio.lv/pplr4
+48 - http://lr4mp1.latvijasradio.lv:8020
+32 - mms://lr4ws.latvijasradio.lv/pplr4s
+
+Радио Польша (1925) © Polskie Radio S.A.
+Сайт: radiopolsha.pl/6
+URL-адреса скоростей потоков, кбит/с:
+96 - http://stream3.polskieradio.pl:8914
+
+Радио Свобода (1953) © RFE/RL, Inc.
+Сайт: svoboda.org
+URL-адреса скоростей потоков, кбит/с:
+64 - http://rfe04.akacast.akamaistream.net/7/509/437762/v1..
+
+Радиогазета Слово (2001)
+Сайт: radioslovo.ru
+URL-адреса скоростей потоков, кбит/с:
+128 - http://radio-tochka.com:6590
+64 - http://radio-tochka.com:6055
+32 - http://radio-tochka.com:6065
+оворит Москва (2014)
+Сайт: govoritmoskva.ru
+URL-адреса скоростей потоков, кбит/с:
+96 - http://video.govoritmoskva.ru:8880/rufm.mp3
+64 - http://media.govoritmoskva.ru:8880/ru64.mp3
+32 - http://media.govoritmoskva.ru:8880/ru32.mp3
+
+Радио Звезда (2005) © ОАО «ТРК ВС РФ «Звезда»
+Сайт: radiozvezda.ru
+URL-адреса скоростей потоков, кбит/с:
+128 - http://stream.radiozvezda.ru:8088/zvezda_128
+96 - http://stream.radiozvezda.ru:8088/zvezda_96
+64 - http://stream.radiozvezda.ru:8088/zvezda_64
+
+Орфей (1991) © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+192 - http://icecast.orpheus.cdnvideo.ru/orpheus_192
+128 - http://icecast.orpheus.cdnvideo.ru/orpheus_128
+64 - http://icecast.orpheus.cdnvideo.ru/orpheus_64
+32 - http://icecast.orpheus.cdnvideo.ru/orpheus_32
+
+Орфей (1991) - Популярная классика © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_72_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_72_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_72_64.mp3
+
+Орфей (1991) - Русская классика © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_73_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_73_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_73_64.mp3
+
+Орфей (1991) - Симфоническая музыка © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_74_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_74_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_74_64.mp3
+
+Орфей (1991) - Бельканто © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_75_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_75_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_75_64.mp3
+
+Орфей (1991) - Камерата © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_76_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_76_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_76_64.mp3
+
+Орфей (1991) - Орфей Клавир © ФГБУ «РГМЦ»
+Сайт: muzcentrum.ru/orpheusradio
+URL-адреса скоростей потоков, кбит/с:
+256 - http://channels.fonotron.ru/stream/Chan_77_256.mp3
+128 - http://channels.fonotron.ru/stream/Chan_77_128.mp3
+64 - http://channels.fonotron.ru/stream/Chan_77_64.mp3
+
+Радио Книга (2013) © ООО «Дом музыки»
+Сайт: radiokniga.com
+URL-адреса скоростей потоков, кбит/с:
+256 - http://bookradio.hostingradio.ru:8069/fm
+
+Радио Шансон (2000) © АО «Региональный радиоканал»
+Сайт: radioshanson.fm
+URL-адреса скоростей потоков, кбит/с:
+256 - http://chanson.hostingradio.ru:8041/chanson256.mp3
+128 - http://chanson.hostingradio.ru:8041/chanson128.mp3
+64 - http://chanson.hostingradio.ru:8041/chanson64.mp3

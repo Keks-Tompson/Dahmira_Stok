@@ -1,0 +1,28 @@
+ТВ World Kino
+https://cdnua03.hls.tv/178/hls/kfsnjgbmwuoxtdq7218lz5yv3ap6h9i4/4816/stream.m3u8
+Hollywood HD
+http://cdnua06.hls.tv/476/hls/2asqejncklupw3m0or86vzyxg197b4it/262/stream.m3u8
+Star Cinema
+http://cdnua06.hls.tv/476/hls/fdeio3502sr1n8t4amxpbj7hq96lwgyz/3703/stream.m3u8
+Квартал TV
+https://cdnua03.hls.tv/178/hls/gtpzcdjs8w4e7lfq2v9n0kum5rb3yx1h/3603/stream.m3u8
+1+1
+http://saveukraine.only4.tv/0195/video.m3u8?token=saveUkrain
+Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+Новый канал
+http://saveukraine.only4.tv/0194/video.m3u8?token=saveUkrain
+СТБ
+http://saveukraine.only4.tv/0160/video.m3u8?token=saveUkrain
+Сонце
+http://saveukraine.only4.tv/0183/video.m3u8?token=saveUkrain
+Запорожье
+http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
+Bolt
+http://cdnua06.hls.tv/476/hls/pahum2nfj01xkglcz54r8vo396t7edqw/3690/stream.m3u8
+TV1000 вроде
+http://cdnua06.hls.tv/476/hls/ng3qtzjs6mvy8rolf0ce9h41kix2p5ab/174/stream.m3u8
+World kino TV1000
+http://193.233.9.49/streams/media/Nat_Geo_Wild_HD/index.m3u8
+Паромонт кино
+http://cdnua06.hls.tv/476/hls/goplasz3krfhin0dywm9u8162etvb4x5/3987/stream.m3u8
