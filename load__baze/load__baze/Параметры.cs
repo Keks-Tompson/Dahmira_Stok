@@ -1136,6 +1136,14 @@ namespace load__baze
             Console.Read();
 
 
+            ////sdd
+            //ShowDialogsd
+
+            //    sd
+            //    d
+            //    s
+            //    sd
+
             
             Program.f1.proverka_praisev_c_ftp();
 
