@@ -286,3 +286,5 @@ D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.
 D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.csproj.CopyComplete
 D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.exe
 D:\Dahmira Git\load__baze — копия\load__baze\obj\Debug\load__baze.pdb
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\Newtonsoft.Json.dll
+D:\Dahmira Git\load__baze\load__baze\bin\Debug\Newtonsoft.Json.xml

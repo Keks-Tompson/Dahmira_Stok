@@ -23,6 +23,7 @@ using System.Net;
 using System.Media;
 using System.Net.Sockets;
 using load__baze.Models;
+using Newtonsoft.Json;
 
 
 
@@ -170,7 +171,7 @@ namespace load__baze
 
             //читаем и помещаем файл в add узнаем источник базы сейчас!
             string path = "load__baze.exe.config";
-            string[] add = new string[20];
+            string[] add = new string[21];
             int a = 0;
             using (StreamReader sr = new StreamReader(path, System.Text.Encoding.UTF8))
             {
@@ -724,6 +725,10 @@ namespace load__baze
                 }
                 stream.Close();
             }
+
+            string jsonLocalString = File.ReadAllText("countries.json");
+            Manager.Instance.countries = JsonConvert.DeserializeObject<List<Country>>(jsonLocalString);
+
             for (int x = 1; x < 16; x++)
             {
                 if (settlement_price[x] != "")
@@ -13656,6 +13661,11 @@ namespace load__baze
             requestу.Method = WebRequestMethods.Ftp.DownloadFile;
             requestу.Credentials = new NetworkCredential("dahmira1_admin", "zI2Hghfnslob");
             string[] messenges_baks = null;
+
+            FtpWebRequest requestCountries = (FtpWebRequest)WebRequest.Create(url_praise + "/countries/countries.json");
+            requestCountries.Credentials = new NetworkCredential("dahmira1_admin", "zI2Hghfnslob");
+            requestCountries.Method = WebRequestMethods.Ftp.DownloadFile;
+
             try
             {
                 FtpWebResponse response2 = (FtpWebResponse)requestу.GetResponse();
@@ -13674,15 +13684,35 @@ namespace load__baze
                     return;
                 }
 
+                //чтение json-файла с ftp сервера
+                FtpWebResponse responseCountries = (FtpWebResponse)requestCountries.GetResponse();
+                Stream responseCountriesFtp = responseCountries.GetResponseStream();
+                StreamReader readerCountries = new StreamReader(responseCountriesFtp);
+
+                string jsonFtpText = readerCountries.ReadToEnd(); //json с ftp сервера
+                string jsonLocalString = File.ReadAllText("countries.json"); // json на пк
+
                 bool ne_now = false;
+                bool ne_now_countries = false;
+
                 for (int i = 1; i < 46; i++)
                 {
                     if (settlement_price[i] != messenges_baks[i])
                     {
-                        ne_now = true; i = 47;
+                        ne_now = true;
+                        ne_now_countries = true;
+                        i = 47;
                     }
                 }
-            
+
+                if (!ne_now)
+                {
+                    if (jsonFtpText != jsonLocalString)
+                    {
+                        ne_now_countries = true;
+                    }
+                }
+
                 if (ne_now == true)
                 {
                     //есть изменения
@@ -13726,7 +13756,12 @@ namespace load__baze
                     }
                     catch { label_consol.Text = "Файл данных о коэффициентах для переноса цен поврежден!"; }
                     MessageBox.Show("-----Внимание!-------\nРукаводство сменило коэф.цен для менеджеров!\nЯ сменила их у тебя!\nИ сбросила твой выбор позиции там!", "Важное сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
 
+                if (ne_now_countries)
+                {
+                    File.WriteAllText("countries.json", jsonFtpText);
+                    MessageBox.Show("-----Внимание!-------\nРукаводство сменило местных поставщиков!\nЯ сменила их у тебя!\nИ сбросила твой выбор позиции там!", "Важное сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch
