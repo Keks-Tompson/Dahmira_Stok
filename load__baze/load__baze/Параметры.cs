@@ -549,6 +549,8 @@ namespace load__baze
                 dataGridView3.Rows.Add();
                 dataGridView3.Rows[i].Cells[0].Value = Manager.Instance.allManufacturers[i].name;
             }
+
+            dataGridView1_CellClick(this, new DataGridViewCellEventArgs(0, 0));
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -1254,69 +1256,91 @@ namespace load__baze
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            dataGridView2.Rows.Clear();
-            dataGridView3.Rows.Clear();
-
-            if (e.RowIndex >= 0) // Проверяем, что строка была нажата (не заголовок)
+            try
             {
-                for (int i = 0; i < Manager.Instance.allManufacturers.Count; i++)
-                {
-                    Manufacturer manufacturer = Manager.Instance.allManufacturers[i];
-                    dataGridView3.Rows.Add(manufacturer.name);
-                }
+                dataGridView2.Rows.Clear();
+                dataGridView3.Rows.Clear();
 
-                int clickedRowIndex = e.RowIndex;
-                if (Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count > 0)
+                if (e.RowIndex >= 0) // Проверяем, что строка была нажата (не заголовок)
                 {
-                    for (int i = 0; i < Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count; i++)
+                    for (int i = 0; i < Manager.Instance.allManufacturers.Count; i++)
                     {
-                        Manufacturer manufacturer = Manager.Instance.countries[clickedRowIndex].countryManufacturers[i];
-                        dataGridView2.Rows.Add(manufacturer.name);
+                        Manufacturer manufacturer = Manager.Instance.allManufacturers[i];
+                        dataGridView3.Rows.Add(manufacturer.name);
                     }
-                }
 
-                List<DataGridViewRow> rowsToRemove = new List<DataGridViewRow>();
-                foreach (DataGridViewRow row1 in dataGridView3.Rows)
-                {
-                    foreach (DataGridViewRow row2 in dataGridView2.Rows)
+                    int clickedRowIndex = e.RowIndex;
+                    if (Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count > 0)
                     {
-                        if (row1.Cells[0].Value != null && row2.Cells[0].Value != null)
+                        for (int i = 0; i < Manager.Instance.countries[clickedRowIndex].countryManufacturers.Count; i++)
                         {
-                            if (row1.Cells[0].Value.ToString() == row2.Cells[0].Value.ToString())
+                            Manufacturer manufacturer = Manager.Instance.countries[clickedRowIndex].countryManufacturers[i];
+                            dataGridView2.Rows.Add(manufacturer.name);
+                        }
+                    }
+
+                    List<DataGridViewRow> rowsToRemove = new List<DataGridViewRow>();
+                    foreach (DataGridViewRow row1 in dataGridView3.Rows)
+                    {
+                        foreach (DataGridViewRow row2 in dataGridView2.Rows)
+                        {
+                            if (row1.Cells[0].Value != null && row2.Cells[0].Value != null)
                             {
-                                rowsToRemove.Add(row1);
-                                break;
+                                if (row1.Cells[0].Value.ToString() == row2.Cells[0].Value.ToString())
+                                {
+                                    rowsToRemove.Add(row1);
+                                    break;
+                                }
                             }
                         }
                     }
-                }
 
-                foreach (DataGridViewRow rowToRemove in rowsToRemove)
-                {
-                    dataGridView3.Rows.Remove(rowToRemove);
+                    foreach (DataGridViewRow rowToRemove in rowsToRemove)
+                    {
+                        dataGridView3.Rows.Remove(rowToRemove);
+                    }
                 }
+            }
+            catch
+            {
+
             }
         }
 
         private void dataGridView2_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+            try
             {
-                string cellValue = dataGridView2.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
-                Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.RemoveAt(e.RowIndex);
-                dataGridView3.Rows.Add(cellValue);
-                dataGridView2.Rows.RemoveAt(e.RowIndex);
+
+                if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                {
+                    string cellValue = dataGridView2.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                    Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.RemoveAt(e.RowIndex);
+                    dataGridView3.Rows.Add(cellValue);
+                    dataGridView2.Rows.RemoveAt(e.RowIndex);
+                }
+            }
+            catch 
+            { 
+
             }
         }
 
         private void dataGridView3_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+            try
             {
-                string cellValue = dataGridView3.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
-                Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.Add(new Manufacturer { name = cellValue });
-                dataGridView2.Rows.Add(cellValue);
-                dataGridView3.Rows.RemoveAt(e.RowIndex);
+                if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                {
+                    string cellValue = dataGridView3.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                    Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.Add(new Manufacturer { name = cellValue });
+                    dataGridView2.Rows.Add(cellValue);
+                    dataGridView3.Rows.RemoveAt(e.RowIndex);
+                }
+            }
+            catch 
+            { 
+            
             }
         }
 

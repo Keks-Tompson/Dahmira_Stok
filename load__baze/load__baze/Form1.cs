@@ -726,8 +726,15 @@ namespace load__baze
                 stream.Close();
             }
 
-            string jsonLocalString = File.ReadAllText("countries.json");
-            Manager.Instance.countries = JsonConvert.DeserializeObject<List<Country>>(jsonLocalString);
+            try
+            {
+                string jsonLocalString = File.ReadAllText("countries.json");
+                Manager.Instance.countries = JsonConvert.DeserializeObject<List<Country>>(jsonLocalString);
+            }
+            catch
+            {
+                Manager.Instance.countries = new List<Country> { };
+            }
 
             for (int x = 1; x < 16; x++)
             {
@@ -13689,8 +13696,19 @@ namespace load__baze
                 Stream responseCountriesFtp = responseCountries.GetResponseStream();
                 StreamReader readerCountries = new StreamReader(responseCountriesFtp);
 
+
+
                 string jsonFtpText = readerCountries.ReadToEnd(); //json с ftp сервера
-                string jsonLocalString = File.ReadAllText("countries.json"); // json на пк
+                string jsonLocalString = ""; // json на пк
+                
+                try
+                {
+                    jsonLocalString = File.ReadAllText("countries.json");
+                }
+                catch
+                {
+
+                }
 
                 bool ne_now = false;
                 bool ne_now_countries = false;
@@ -13705,6 +13723,8 @@ namespace load__baze
                     }
                 }
 
+                //MessageBox.Show("Тута\n" + jsonFtpText + "\n\n" + jsonLocalString, "Важное сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
                 if (!ne_now)
                 {
                     if (jsonFtpText != jsonLocalString)
@@ -13712,9 +13732,14 @@ namespace load__baze
                         ne_now_countries = true;
                     }
                 }
+                
+                
 
-                if (ne_now == true)
+
+                if (ne_now || ne_now_countries)
                 {
+
+
                     //есть изменения
                     comboBox_елупни.Items.Clear();
                     ////////////////
@@ -13761,6 +13786,15 @@ namespace load__baze
                 if (ne_now_countries)
                 {
                     File.WriteAllText("countries.json", jsonFtpText);
+
+                    try
+                    {
+                        Manager.Instance.countries = JsonConvert.DeserializeObject<List<Country>>(jsonFtpText);
+                    }
+                    catch
+                    {
+                    }
+
                     MessageBox.Show("-----Внимание!-------\nРукаводство сменило местных поставщиков!\nЯ сменила их у тебя!\nИ сбросила твой выбор позиции там!", "Важное сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
