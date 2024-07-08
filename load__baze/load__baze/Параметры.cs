@@ -537,10 +537,11 @@ namespace load__baze
             dataGridView3.Rows.Clear();
             for (int i = 0; i < Manager.Instance.countries.Count; i++)
             {
-                dataGridView1.Rows.Add();
-                dataGridView1.Rows[i].Cells[0].Value = Manager.Instance.countries[i].name;
-                dataGridView1.Rows[i].Cells[1].Value = Manager.Instance.countries[i].coefficient;
-                dataGridView1.Rows[i].Cells[2].Value = Manager.Instance.countries[i].discount;
+                dataGridView1.Rows.Add(Manager.Instance.countries[i].name, Manager.Instance.countries[i].coefficient, Manager.Instance.countries[i].discount);
+                if (dataGridView1.Rows[i].Cells[0].Value.ToString() == "")
+                {
+                    dataGridView1.Rows[i].Visible = false;
+                }
             }
 
             for (int i = 0; i < Manager.Instance.allManufacturers.Count; i++)
@@ -1235,11 +1236,11 @@ namespace load__baze
             }
 
             //удаление пустых строк
-            for (int i = Manager.Instance.countries.Count - 1; i > 0; i--)
+            for (int i = 0; i < Manager.Instance.countries.Count; i++)
             {
                 if (Manager.Instance.countries[i].name.ToString() == "")
                 {
-                    Manager.Instance.countries.RemoveAt(i);
+                    Manager.Instance.countries[i].countryManufacturers = new List<Manufacturer> { };
                 }
             }
 
