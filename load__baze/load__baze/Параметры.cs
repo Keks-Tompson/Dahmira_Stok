@@ -1133,7 +1133,6 @@ namespace load__baze
 
         private void ChangeCoeff_Click(object sender, EventArgs e)
         {
-
             // Создаем объект FtpWebRequest - он указывает на файл, который будет создан
             FtpWebRequest request = (FtpWebRequest)WebRequest.Create(Form1.url_praise + "/coefficient_prices/coefficient_prices_test.txt");
             // устанавливаем метод на загрузку файлов
