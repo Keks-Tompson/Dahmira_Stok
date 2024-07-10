@@ -2193,6 +2193,14 @@ namespace load__baze
                                             {
                                                 bool isDecimal = Decimal.TryParse(tableDataGridView.Rows[b].Cells[5].Value.ToString(), out newDecimal);
                                                 newDecimal = newDecimal * koff_klienty;
+                                                for (int i = 0; i < Manager.Instance.countries[comboBox_елупни.SelectedIndex].countryManufacturers.Count; i++)
+                                                {
+                                                    if (dataGridView_расчёт_2.Rows[r].Cells[1].Value.ToString() == Manager.Instance.countries[comboBox_елупни.SelectedIndex].countryManufacturers[i].name)
+                                                    {
+                                                        decimal discount = newDecimal * Manager.Instance.countries[comboBox_елупни.SelectedIndex].discount;
+                                                        newDecimal -= discount;
+                                                    }
+                                                }
                                                 string twoDecimalPlaces = (newDecimal).ToString("########.00");
                                                 if (newDecimal < 1) 
                                                 { 
@@ -2229,7 +2237,7 @@ namespace load__baze
                                             {
                                                 if (dataGridView_расчёт_2.Rows[r].Cells[1].Value.ToString() == Manager.Instance.countries[comboBox_елупни.SelectedIndex].countryManufacturers[i].name)
                                                 {
-                                                    decimal discount = newDecimal * Manager.Instance.countries[comboBox_елупни.SelectedIndex].discount / 100;
+                                                    decimal discount = newDecimal * Manager.Instance.countries[comboBox_елупни.SelectedIndex].discount;
                                                     newDecimal -= discount;
                                                 }
                                             }
