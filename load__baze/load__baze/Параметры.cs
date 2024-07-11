@@ -34,7 +34,7 @@ namespace load__baze
         {
          Program.fX=this;    
             InitializeComponent();
-
+            textBox1.PasswordChar = '●';
             coefficientsList.Add(PriceCoef_1);
             coefficientsList.Add(PriceCoef_2);
             coefficientsList.Add(PriceCoef_3);
@@ -1432,6 +1432,7 @@ namespace load__baze
                 MessageBox.Show("Пароль Администратора введён неверно", "Проверка", MessageBoxButtons.OK);
                 timer1.Stop();
             }
+            textBox1.Text = string.Empty;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
