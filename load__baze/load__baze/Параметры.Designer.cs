@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Параметры));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -184,6 +185,13 @@
             this.label20 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.bazaDataSet1 = new load__baze.bazaDataSet();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
+            this.button21 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -320,6 +328,12 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.label38);
+            this.groupBox1.Controls.Add(this.label37);
+            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.button21);
+            this.groupBox1.Controls.Add(this.label36);
+            this.groupBox1.Controls.Add(this.label35);
             this.groupBox1.Controls.Add(this.button_new_key_set);
             this.groupBox1.Controls.Add(this.label_key_info);
             this.groupBox1.Controls.Add(this.label_my_key);
@@ -347,7 +361,7 @@
             // 
             // button_new_key_set
             // 
-            this.button_new_key_set.Location = new System.Drawing.Point(24, 251);
+            this.button_new_key_set.Location = new System.Drawing.Point(36, 251);
             this.button_new_key_set.Name = "button_new_key_set";
             this.button_new_key_set.Size = new System.Drawing.Size(88, 23);
             this.button_new_key_set.TabIndex = 115;
@@ -357,7 +371,7 @@
             // 
             // label_key_info
             // 
-            this.label_key_info.Location = new System.Drawing.Point(24, 277);
+            this.label_key_info.Location = new System.Drawing.Point(33, 277);
             this.label_key_info.Name = "label_key_info";
             this.label_key_info.Size = new System.Drawing.Size(403, 40);
             this.label_key_info.TabIndex = 114;
@@ -365,7 +379,7 @@
             // 
             // label_my_key
             // 
-            this.label_my_key.Location = new System.Drawing.Point(21, 235);
+            this.label_my_key.Location = new System.Drawing.Point(35, 235);
             this.label_my_key.Name = "label_my_key";
             this.label_my_key.Size = new System.Drawing.Size(406, 13);
             this.label_my_key.TabIndex = 113;
@@ -392,7 +406,7 @@
             // label32
             // 
             this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(286, 126);
+            this.label32.Location = new System.Drawing.Point(310, 127);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(25, 13);
             this.label32.TabIndex = 106;
@@ -402,7 +416,7 @@
             // 
             this.button18.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button18.BackgroundImage")));
             this.button18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button18.Location = new System.Drawing.Point(15, 176);
+            this.button18.Location = new System.Drawing.Point(40, 176);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(29, 26);
             this.button18.TabIndex = 105;
@@ -421,7 +435,7 @@
             // 
             this.button19.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button19.BackgroundImage")));
             this.button19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button19.Location = new System.Drawing.Point(46, 176);
+            this.button19.Location = new System.Drawing.Point(71, 176);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(29, 26);
             this.button19.TabIndex = 103;
@@ -430,7 +444,7 @@
             // 
             // label31
             // 
-            this.label31.Location = new System.Drawing.Point(81, 175);
+            this.label31.Location = new System.Drawing.Point(106, 175);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(320, 26);
             this.label31.TabIndex = 102;
@@ -463,7 +477,7 @@
             0,
             0,
             65536});
-            this.numericUpDown3.Location = new System.Drawing.Point(220, 122);
+            this.numericUpDown3.Location = new System.Drawing.Point(244, 123);
             this.numericUpDown3.Maximum = new decimal(new int[] {
             60,
             0,
@@ -487,7 +501,7 @@
             // label28
             // 
             this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(15, 125);
+            this.label28.Location = new System.Drawing.Point(39, 126);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(203, 13);
             this.label28.TabIndex = 36;
@@ -609,6 +623,7 @@
             // 
             // NameCoeff_15
             // 
+            this.NameCoeff_15.Enabled = false;
             this.NameCoeff_15.Location = new System.Drawing.Point(202, 359);
             this.NameCoeff_15.Name = "NameCoeff_15";
             this.NameCoeff_15.Size = new System.Drawing.Size(100, 20);
@@ -616,6 +631,7 @@
             // 
             // NameCoeff_14
             // 
+            this.NameCoeff_14.Enabled = false;
             this.NameCoeff_14.Location = new System.Drawing.Point(201, 335);
             this.NameCoeff_14.Name = "NameCoeff_14";
             this.NameCoeff_14.Size = new System.Drawing.Size(100, 20);
@@ -623,6 +639,7 @@
             // 
             // NameCoeff_13
             // 
+            this.NameCoeff_13.Enabled = false;
             this.NameCoeff_13.Location = new System.Drawing.Point(201, 312);
             this.NameCoeff_13.Name = "NameCoeff_13";
             this.NameCoeff_13.Size = new System.Drawing.Size(100, 20);
@@ -630,6 +647,7 @@
             // 
             // NameCoeff_12
             // 
+            this.NameCoeff_12.Enabled = false;
             this.NameCoeff_12.Location = new System.Drawing.Point(201, 289);
             this.NameCoeff_12.Name = "NameCoeff_12";
             this.NameCoeff_12.Size = new System.Drawing.Size(100, 20);
@@ -637,6 +655,7 @@
             // 
             // NameCoeff_11
             // 
+            this.NameCoeff_11.Enabled = false;
             this.NameCoeff_11.Location = new System.Drawing.Point(201, 266);
             this.NameCoeff_11.Name = "NameCoeff_11";
             this.NameCoeff_11.Size = new System.Drawing.Size(100, 20);
@@ -644,6 +663,7 @@
             // 
             // NameCoeff_10
             // 
+            this.NameCoeff_10.Enabled = false;
             this.NameCoeff_10.Location = new System.Drawing.Point(201, 243);
             this.NameCoeff_10.Name = "NameCoeff_10";
             this.NameCoeff_10.Size = new System.Drawing.Size(100, 20);
@@ -651,6 +671,7 @@
             // 
             // NameCoeff_9
             // 
+            this.NameCoeff_9.Enabled = false;
             this.NameCoeff_9.Location = new System.Drawing.Point(201, 220);
             this.NameCoeff_9.Name = "NameCoeff_9";
             this.NameCoeff_9.Size = new System.Drawing.Size(100, 20);
@@ -658,6 +679,7 @@
             // 
             // NameCoeff_8
             // 
+            this.NameCoeff_8.Enabled = false;
             this.NameCoeff_8.Location = new System.Drawing.Point(201, 197);
             this.NameCoeff_8.Name = "NameCoeff_8";
             this.NameCoeff_8.Size = new System.Drawing.Size(100, 20);
@@ -665,6 +687,7 @@
             // 
             // NameCoeff_7
             // 
+            this.NameCoeff_7.Enabled = false;
             this.NameCoeff_7.Location = new System.Drawing.Point(201, 174);
             this.NameCoeff_7.Name = "NameCoeff_7";
             this.NameCoeff_7.Size = new System.Drawing.Size(100, 20);
@@ -672,6 +695,7 @@
             // 
             // NameCoeff_6
             // 
+            this.NameCoeff_6.Enabled = false;
             this.NameCoeff_6.Location = new System.Drawing.Point(201, 151);
             this.NameCoeff_6.Name = "NameCoeff_6";
             this.NameCoeff_6.Size = new System.Drawing.Size(100, 20);
@@ -679,6 +703,7 @@
             // 
             // NameCoeff_5
             // 
+            this.NameCoeff_5.Enabled = false;
             this.NameCoeff_5.Location = new System.Drawing.Point(201, 128);
             this.NameCoeff_5.Name = "NameCoeff_5";
             this.NameCoeff_5.Size = new System.Drawing.Size(100, 20);
@@ -686,6 +711,7 @@
             // 
             // NameCoeff_4
             // 
+            this.NameCoeff_4.Enabled = false;
             this.NameCoeff_4.Location = new System.Drawing.Point(201, 105);
             this.NameCoeff_4.Name = "NameCoeff_4";
             this.NameCoeff_4.Size = new System.Drawing.Size(100, 20);
@@ -693,6 +719,7 @@
             // 
             // NameCoeff_3
             // 
+            this.NameCoeff_3.Enabled = false;
             this.NameCoeff_3.Location = new System.Drawing.Point(201, 82);
             this.NameCoeff_3.Name = "NameCoeff_3";
             this.NameCoeff_3.Size = new System.Drawing.Size(100, 20);
@@ -700,6 +727,7 @@
             // 
             // NameCoeff_2
             // 
+            this.NameCoeff_2.Enabled = false;
             this.NameCoeff_2.Location = new System.Drawing.Point(201, 59);
             this.NameCoeff_2.Name = "NameCoeff_2";
             this.NameCoeff_2.Size = new System.Drawing.Size(100, 20);
@@ -707,6 +735,7 @@
             // 
             // NameCoeff_1
             // 
+            this.NameCoeff_1.Enabled = false;
             this.NameCoeff_1.Location = new System.Drawing.Point(201, 36);
             this.NameCoeff_1.Name = "NameCoeff_1";
             this.NameCoeff_1.Size = new System.Drawing.Size(100, 20);
@@ -715,6 +744,7 @@
             // PriceCoef_15
             // 
             this.PriceCoef_15.DecimalPlaces = 4;
+            this.PriceCoef_15.Enabled = false;
             this.PriceCoef_15.Increment = new decimal(new int[] {
             1,
             0,
@@ -743,6 +773,7 @@
             // PriceCoef_14
             // 
             this.PriceCoef_14.DecimalPlaces = 4;
+            this.PriceCoef_14.Enabled = false;
             this.PriceCoef_14.Increment = new decimal(new int[] {
             1,
             0,
@@ -771,6 +802,7 @@
             // PriceCoef_13
             // 
             this.PriceCoef_13.DecimalPlaces = 4;
+            this.PriceCoef_13.Enabled = false;
             this.PriceCoef_13.Increment = new decimal(new int[] {
             1,
             0,
@@ -799,6 +831,7 @@
             // PriceCoef_12
             // 
             this.PriceCoef_12.DecimalPlaces = 4;
+            this.PriceCoef_12.Enabled = false;
             this.PriceCoef_12.Increment = new decimal(new int[] {
             1,
             0,
@@ -827,6 +860,7 @@
             // PriceCoef_11
             // 
             this.PriceCoef_11.DecimalPlaces = 4;
+            this.PriceCoef_11.Enabled = false;
             this.PriceCoef_11.Increment = new decimal(new int[] {
             1,
             0,
@@ -855,6 +889,7 @@
             // PriceCoef_10
             // 
             this.PriceCoef_10.DecimalPlaces = 4;
+            this.PriceCoef_10.Enabled = false;
             this.PriceCoef_10.Increment = new decimal(new int[] {
             1,
             0,
@@ -883,6 +918,7 @@
             // PriceCoef_9
             // 
             this.PriceCoef_9.DecimalPlaces = 4;
+            this.PriceCoef_9.Enabled = false;
             this.PriceCoef_9.Increment = new decimal(new int[] {
             1,
             0,
@@ -911,6 +947,7 @@
             // PriceCoef_8
             // 
             this.PriceCoef_8.DecimalPlaces = 4;
+            this.PriceCoef_8.Enabled = false;
             this.PriceCoef_8.Increment = new decimal(new int[] {
             1,
             0,
@@ -939,6 +976,7 @@
             // PriceCoef_7
             // 
             this.PriceCoef_7.DecimalPlaces = 4;
+            this.PriceCoef_7.Enabled = false;
             this.PriceCoef_7.Increment = new decimal(new int[] {
             1,
             0,
@@ -967,6 +1005,7 @@
             // PriceCoef_6
             // 
             this.PriceCoef_6.DecimalPlaces = 4;
+            this.PriceCoef_6.Enabled = false;
             this.PriceCoef_6.Increment = new decimal(new int[] {
             1,
             0,
@@ -995,6 +1034,7 @@
             // PriceCoef_5
             // 
             this.PriceCoef_5.DecimalPlaces = 4;
+            this.PriceCoef_5.Enabled = false;
             this.PriceCoef_5.Increment = new decimal(new int[] {
             1,
             0,
@@ -1023,6 +1063,7 @@
             // PriceCoef_4
             // 
             this.PriceCoef_4.DecimalPlaces = 4;
+            this.PriceCoef_4.Enabled = false;
             this.PriceCoef_4.Increment = new decimal(new int[] {
             1,
             0,
@@ -1051,6 +1092,7 @@
             // PriceCoef_3
             // 
             this.PriceCoef_3.DecimalPlaces = 4;
+            this.PriceCoef_3.Enabled = false;
             this.PriceCoef_3.Increment = new decimal(new int[] {
             1,
             0,
@@ -1079,6 +1121,7 @@
             // PriceCoef_2
             // 
             this.PriceCoef_2.DecimalPlaces = 4;
+            this.PriceCoef_2.Enabled = false;
             this.PriceCoef_2.Increment = new decimal(new int[] {
             1,
             0,
@@ -1107,6 +1150,7 @@
             // PriceCoef_1
             // 
             this.PriceCoef_1.DecimalPlaces = 4;
+            this.PriceCoef_1.Enabled = false;
             this.PriceCoef_1.Increment = new decimal(new int[] {
             1,
             0,
@@ -1134,12 +1178,13 @@
             // 
             // ChangeCoeff
             // 
-            this.ChangeCoeff.Location = new System.Drawing.Point(304, 388);
+            this.ChangeCoeff.Location = new System.Drawing.Point(202, 388);
             this.ChangeCoeff.Name = "ChangeCoeff";
-            this.ChangeCoeff.Size = new System.Drawing.Size(134, 23);
+            this.ChangeCoeff.Size = new System.Drawing.Size(193, 23);
             this.ChangeCoeff.TabIndex = 16;
             this.ChangeCoeff.Text = "Изменить";
             this.ChangeCoeff.UseVisualStyleBackColor = true;
+            this.ChangeCoeff.Visible = false;
             this.ChangeCoeff.Click += new System.EventHandler(this.ChangeCoeff_Click);
             // 
             // label34
@@ -1156,6 +1201,7 @@
             // DiscountСoeff_15
             // 
             this.DiscountСoeff_15.DecimalPlaces = 4;
+            this.DiscountСoeff_15.Enabled = false;
             this.DiscountСoeff_15.Increment = new decimal(new int[] {
             1,
             0,
@@ -1184,6 +1230,7 @@
             // DiscountСoeff_14
             // 
             this.DiscountСoeff_14.DecimalPlaces = 4;
+            this.DiscountСoeff_14.Enabled = false;
             this.DiscountСoeff_14.Increment = new decimal(new int[] {
             1,
             0,
@@ -1212,6 +1259,7 @@
             // DiscountСoeff_13
             // 
             this.DiscountСoeff_13.DecimalPlaces = 4;
+            this.DiscountСoeff_13.Enabled = false;
             this.DiscountСoeff_13.Increment = new decimal(new int[] {
             1,
             0,
@@ -1240,6 +1288,7 @@
             // DiscountСoeff_12
             // 
             this.DiscountСoeff_12.DecimalPlaces = 4;
+            this.DiscountСoeff_12.Enabled = false;
             this.DiscountСoeff_12.Increment = new decimal(new int[] {
             1,
             0,
@@ -1268,6 +1317,7 @@
             // DiscountСoeff_11
             // 
             this.DiscountСoeff_11.DecimalPlaces = 4;
+            this.DiscountСoeff_11.Enabled = false;
             this.DiscountСoeff_11.Increment = new decimal(new int[] {
             1,
             0,
@@ -1296,6 +1346,7 @@
             // DiscountСoeff_10
             // 
             this.DiscountСoeff_10.DecimalPlaces = 4;
+            this.DiscountСoeff_10.Enabled = false;
             this.DiscountСoeff_10.Increment = new decimal(new int[] {
             1,
             0,
@@ -1324,6 +1375,7 @@
             // DiscountСoeff_9
             // 
             this.DiscountСoeff_9.DecimalPlaces = 4;
+            this.DiscountСoeff_9.Enabled = false;
             this.DiscountСoeff_9.Increment = new decimal(new int[] {
             1,
             0,
@@ -1352,6 +1404,7 @@
             // DiscountСoeff_8
             // 
             this.DiscountСoeff_8.DecimalPlaces = 4;
+            this.DiscountСoeff_8.Enabled = false;
             this.DiscountСoeff_8.Increment = new decimal(new int[] {
             1,
             0,
@@ -1380,6 +1433,7 @@
             // DiscountСoeff_7
             // 
             this.DiscountСoeff_7.DecimalPlaces = 4;
+            this.DiscountСoeff_7.Enabled = false;
             this.DiscountСoeff_7.Increment = new decimal(new int[] {
             1,
             0,
@@ -1408,6 +1462,7 @@
             // DiscountСoeff_6
             // 
             this.DiscountСoeff_6.DecimalPlaces = 4;
+            this.DiscountСoeff_6.Enabled = false;
             this.DiscountСoeff_6.Increment = new decimal(new int[] {
             1,
             0,
@@ -1436,6 +1491,7 @@
             // DiscountСoeff_5
             // 
             this.DiscountСoeff_5.DecimalPlaces = 4;
+            this.DiscountСoeff_5.Enabled = false;
             this.DiscountСoeff_5.Increment = new decimal(new int[] {
             1,
             0,
@@ -1464,6 +1520,7 @@
             // DiscountСoeff_4
             // 
             this.DiscountСoeff_4.DecimalPlaces = 4;
+            this.DiscountСoeff_4.Enabled = false;
             this.DiscountСoeff_4.Increment = new decimal(new int[] {
             1,
             0,
@@ -1492,6 +1549,7 @@
             // DiscountСoeff_3
             // 
             this.DiscountСoeff_3.DecimalPlaces = 4;
+            this.DiscountСoeff_3.Enabled = false;
             this.DiscountСoeff_3.Increment = new decimal(new int[] {
             1,
             0,
@@ -1520,6 +1578,7 @@
             // DiscountСoeff_2
             // 
             this.DiscountСoeff_2.DecimalPlaces = 4;
+            this.DiscountСoeff_2.Enabled = false;
             this.DiscountСoeff_2.Increment = new decimal(new int[] {
             1,
             0,
@@ -1548,6 +1607,7 @@
             // DiscountСoeff_1
             // 
             this.DiscountСoeff_1.DecimalPlaces = 4;
+            this.DiscountСoeff_1.Enabled = false;
             this.DiscountСoeff_1.Increment = new decimal(new int[] {
             1,
             0,
@@ -1586,7 +1646,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(261, 381);
+            this.pictureBox5.Location = new System.Drawing.Point(401, 382);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(38, 33);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -2397,6 +2457,64 @@
             this.bazaDataSet1.DataSetName = "bazaDataSet";
             this.bazaDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
+            // label35
+            // 
+            this.label35.Location = new System.Drawing.Point(23, 309);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(299, 13);
+            this.label35.TabIndex = 116;
+            this.label35.Text = "Администрирование:";
+            // 
+            // label36
+            // 
+            this.label36.Location = new System.Drawing.Point(33, 326);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(377, 30);
+            this.label36.TabIndex = 117;
+            this.label36.Text = "Для получения возможности изменять цены и местных поставщиков (30 минут) необходи" +
+    "мо ввести пароль администратора";
+            // 
+            // button21
+            // 
+            this.button21.Location = new System.Drawing.Point(206, 358);
+            this.button21.Name = "button21";
+            this.button21.Size = new System.Drawing.Size(127, 23);
+            this.button21.TabIndex = 119;
+            this.button21.Text = "ввести пароль";
+            this.button21.UseVisualStyleBackColor = true;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(36, 360);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(164, 20);
+            this.textBox1.TabIndex = 120;
+            // 
+            // label37
+            // 
+            this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label37.Location = new System.Drawing.Point(35, 382);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(63, 15);
+            this.label37.TabIndex = 121;
+            this.label37.Text = "Статус:";
+            // 
+            // label38
+            // 
+            this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label38.ForeColor = System.Drawing.Color.Red;
+            this.label38.Location = new System.Drawing.Point(81, 381);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(252, 25);
+            this.label38.TabIndex = 122;
+            this.label38.Text = "у вас нет прав администратора";
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1800000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Параметры
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2627,5 +2745,12 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Coefficients;
         private System.Windows.Forms.DataGridViewTextBoxColumn Discount;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button button21;
+        private System.Windows.Forms.Timer timer1;
     }
 }

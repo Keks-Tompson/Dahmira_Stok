@@ -28,6 +28,8 @@ namespace load__baze
         private List<System.Windows.Forms.TextBox> countryNameList = new List<System.Windows.Forms.TextBox>();
         private List<NumericUpDown> discountList = new List<NumericUpDown>();
 
+        public static bool isValid = false;
+
         public Параметры()
         {
          Program.fX=this;    
@@ -387,6 +389,8 @@ namespace load__baze
 
             Program.f1.get_setting();
 
+            timer1.Stop();
+
         }
 
   
@@ -448,6 +452,30 @@ namespace load__baze
             button6.Size = new Size(94, button6.Size.Height);
             button7.Size = new Size(94, button7.Size.Height);
             button8.Size = new Size(94, button8.Size.Height);
+
+            if(isValid == true)
+            {
+                for(int i = 0; i < countryNameList.Count; i++)
+                {
+                    countryNameList[i].Enabled = true;
+                    coefficientsList[i].Enabled = true;
+                    discountList[i].Enabled = true;
+                }
+                ChangeCoeff.Visible = true;
+                label18.Visible = false;
+            }
+            else
+            {
+                for (int i = 0; i < countryNameList.Count; i++)
+                {
+                    countryNameList[i].Enabled = false;
+                    coefficientsList[i].Enabled = false;
+                    discountList[i].Enabled = false;
+                }
+                ChangeCoeff.Visible = false;
+                label18.Visible = true;
+            }
+
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -551,6 +579,19 @@ namespace load__baze
             }
 
             dataGridView1_CellClick(this, new DataGridViewCellEventArgs(0, 0));
+
+            //212; 200
+
+            if (isValid == true)
+            {
+                button9.Visible = true;
+                dataGridView3.Height = 156;
+            }
+            else
+            {
+                button9.Visible = false;
+                dataGridView3.Height = 200;
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -1310,13 +1351,15 @@ namespace load__baze
         {
             try
             {
-
-                if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                if(isValid == true)
                 {
-                    string cellValue = dataGridView2.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
-                    Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.RemoveAt(e.RowIndex);
-                    dataGridView3.Rows.Add(cellValue);
-                    dataGridView2.Rows.RemoveAt(e.RowIndex);
+                    if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                    {
+                        string cellValue = dataGridView2.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                        Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.RemoveAt(e.RowIndex);
+                        dataGridView3.Rows.Add(cellValue);
+                        dataGridView2.Rows.RemoveAt(e.RowIndex);
+                    }
                 }
             }
             catch 
@@ -1329,12 +1372,15 @@ namespace load__baze
         {
             try
             {
-                if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                if(isValid == true)
                 {
-                    string cellValue = dataGridView3.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
-                    Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.Add(new Manufacturer { name = cellValue });
-                    dataGridView2.Rows.Add(cellValue);
-                    dataGridView3.Rows.RemoveAt(e.RowIndex);
+                    if (e.RowIndex >= 0 && e.ColumnIndex >= 0) // Проверяем, что клик был по ячейке (не заголовку)
+                    {
+                        string cellValue = dataGridView3.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
+                        Manager.Instance.countries[dataGridView1.CurrentCell.RowIndex].countryManufacturers.Add(new Manufacturer { name = cellValue });
+                        dataGridView2.Rows.Add(cellValue);
+                        dataGridView3.Rows.RemoveAt(e.RowIndex);
+                    }
                 }
             }
             catch 
@@ -1367,6 +1413,33 @@ namespace load__baze
             {
                 requestStream.Write(fileBytes, 0, fileBytes.Length);
             }
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text == "Administrator2024")
+            {
+                isValid = true;
+                label38.Text = "вы Администратор";
+                label38.ForeColor = Color.Green;
+                timer1.Start();
+            }
+            else
+            {
+                isValid = false;
+                label38.Text = "у вас нет прав Администратора";
+                label38.ForeColor = Color.Red;
+                MessageBox.Show("Пароль Администратора введён неверно", "Проверка", MessageBoxButtons.OK);
+                timer1.Stop();
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            label38.Text = "у вас нет прав Администратора";
+            label38.ForeColor = Color.Red;
+            isValid = false;
         }
     }
 }
